@@ -1,0 +1,33 @@
+Task: Write six descriptive words about the biology of a given gene in a specific cancer.
+
+Below is an example of output:
+Cancer name: pan-cancer
+Gene name: ENSG00000115977,PIK3CA
+<GO_description>
+The full name of PIK3CA is phosphatidylinositol-4,5-bisphosphate 3-kinase. In molecular function as histone H2BS36 kinase activity, histone H2AS121 kinase activity, 1-phosphatidylinositol-3-kinase activity, histone H3S28 kinase activity, AMP-activated protein kinase activity, histone H3T3 kinase activity. In biological process as response to activity, insulin-like growth factor receptor signaling pathway, negative regulation of macroautophagy, glucose metabolic process, response to dexamethasone, autosome genomic imprinting. In cellular component as plasma membrane, cytosol, perinuclear region of cytoplasm, phosphatidylinositol 3-kinase complex, intercalated disc, lamellipodium.
+<GO_description>
+
+Output:
+<Gene_description>
+PIK3CA encodes the catalytic subunit of phosphatidylinositol 3-kinase (PI3K), which plays a critical role in the PI3K/AKT signaling pathway, a key regulator of cell growth, proliferation, and survival. It is located on chromosome 3q26.32. PIK3CA is involved in various molecular functions, including 1-phosphatidylinositol-3-kinase activity and several kinase activities related to histones, such as H2BS36, H2AS121, and H3S28. These activities contribute to chromatin remodeling and gene expression regulation.In terms of biological processes, PIK3CA is essential for the insulin-like growth factor receptor signaling pathway, which influences glucose metabolism and cellular responses to external stimuli like dexamethasone. It also plays a role in the negative regulation of macroautophagy, a process critical for cellular homeostasis and stress responses.PIK3CA is localized in cellular components such as the plasma membrane, cytosol, and phosphatidylinositol 3-kinase complex, where it interacts with other proteins to propagate signaling cascades. Its activity in the lamellipodium and intercalated disc underscores its importance in cell movement and structural integrity.In cancer, PIK3CA mutations are common across various types, leading to aberrant activation of the PI3K/AKT pathway. This results in uncontrolled cell proliferation and survival, contributing to tumorigenesis and cancer progression. The gene's role in regulating glucose metabolism and autophagy further links it to cancer cell metabolism and adaptation to the tumor microenvironment.
+<Gene_description>
+<reason>
+Using <GO_description> and <Gene_description>, PIK3CA's role in cancer can be characterized by its involvement in several key processes. The gene's kinase activities, particularly in histone modification, suggest a unique mechanism of altering chromatin states to favor oncogenic transcriptional programs. Its impact on the insulin-like growth factor receptor signaling pathway and glucose metabolism highlights its role in sustaining the energy demands of rapidly proliferating cancer cells. Additionally, the negative regulation of macroautophagy by PIK3CA indicates a potential mechanism by which cancer cells avoid autophagic cell death, promoting survival under stress. These features distinguish PIK3CA from other genes by emphasizing its dual role in signaling and metabolic regulation within the cancer context.
+<reason>
+<Summary_b>
+Phosphatidylinositol 3-kinase activity,Histone kinase activity,Insulin-like growth factor signaling,Glucose metabolism,Negative regulation of macroautophagy,Plasma membrane localization
+<Summary_e>
+
+Requirements:
+1. Use your knowledge to describe the gene based on literature, focusing on its function, location, interactions, and regulatory mechanisms, especially in cancer. Output as <Gene_description>....<Gene_description>.
+2. Integrate GO information with your insights. If GO data doesn't align with the disease context, adjust the output accordingly.
+3. <Gene_description> should include the gene's biological function and relevant disease information without naming the disease.  Verify sources;  if unrelated, describe the gene's general role.
+4. reason about <reason> using <GO_description> and <Gene_description>, and finally extract and list the features.These genes were ranked by importance. In doing so, it was ensured that the vocabulary was unique and directly reflected the role of genes in cancer biology. Highlight the differences with other genes.
+5. Format characteristic words as <Summary_b>,,,<Summary_e>. Such as:<Summary_b>Phosphatidylinositol 3-kinase activity,Histone kinase activity,Insulin-like growth factor signaling,Glucose metabolism,Negative regulation of macroautophagy,Plasma membrane localization<Summary_e>
+6. Avoid repetition and generic terms unrelated to cancer-specific functions.Ensure consistency and alignment with gene-specific features, incorporating necessary repetitions.
+7. The basic unit of words should be go_term, your words should be mainly selected in GO_description given to you, and then sorted according to your own description. For the incomplete six sections, you need to complete them
+
+Task:
+Cancer name: Cancer_name
+Gene name: Gene_name
+GO_description: go_description

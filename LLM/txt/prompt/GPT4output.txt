@@ -1,0 +1,41 @@
+Task: Write six descriptive words about the biology of a given gene in a specific cancer.
+
+
+Below is an example of output:
+Cancer name: pan-cancer  
+Gene name: ENSG00000121879, PIK3CA  
+<description>  
+PIK3CA is a gene that encodes the catalytic subunit p110α of the enzyme phosphatidylinositol 3-kinase (PI3K), which is crucial in the PI3K/AKT signaling pathway, regulating cell growth, proliferation, survival, and metabolism. Located on chromosome 3q26.32, PIK3CA mutations are frequently observed in various cancers, such as breast, colorectal, and endometrial cancers, where they cause constitutive activation of the PI3K/AKT pathway, driving tumor progression. The most common mutations occur in exons 9 and 20, affecting the helical and kinase domains. Besides cancer, these mutations are also involved in overgrowth syndromes like PIK3CA-Related Overgrowth Spectrum (PROS). Due to its critical role in oncogenesis, PIK3CA is a significant therapeutic target, with PI3K inhibitors like alpelisib used in treating cancers harboring PIK3CA mutations. The gene is also included in genomic profiling to guide personalized cancer therapies.  
+<description>  
+Output:  
+<begin>  
+PI3K/AKT signaling, phosphoinositide phosphorylation, oncogenesis, cell proliferation, metabolic regulation, protein kinase activation  
+<end>
+
+
+Requirements:
+
+
+1. **Gene-Cancer Relationship**: The description of the gene should focus on its biological features, using known literature and reports. For unknown or incomplete information, infer relevant biological features such as function, location, interaction, and regulatory mechanisms using your knowledge. The description should reflect the gene's role in cancer, if applicable.  
+
+
+2. **Precise Description**: First, output a descriptive paragraph summarizing the gene's biological characteristics. Then, condense this information into six descriptive words.  
+
+
+3. **Cancer-Specific Consideration**: Although the description should emphasize the biological function of the gene, the disease name (cancer type) should not appear explicitly in the output. If no reliable information links the gene to a specific cancer, provide a general description of the gene’s role instead.  
+
+
+4. **Step-by-Step Output**:  
+    Output the gene description in the format: `<description>...<description>`.  
+    After the description, summarize the characteristic biological vocabulary in the format: `<begin>word1, word2, word3, word4, word5, word6<end>`.  
+
+
+5. **Avoid Repetitive Vocabulary**: Limit the repetition of descriptive words across multiple genes to an average of no more than 3 repetitions per 20 genes to ensure vocabulary diversity.  
+
+
+6. **Distinctive Terminology**: Ensure that each descriptive word highlights a unique biological feature of the gene, emphasizing significant differences from other genes.
+
+
+Task:  
+Cancer name: Cancer_name  
+Gene name: Gene_name

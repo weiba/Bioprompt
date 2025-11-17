@@ -1,0 +1,42 @@
+Analysis:
+Upon comparison, the stable prompt exhibits a slight edge over the suboptimal prompt in terms of repetition accuracy and output stability (number of repeated words on 20 genes being 4.4 vs. 4.2). The stability in the prompt primarily arises from the additional specificity and iterative reinforcement of vocabulary consistency.
+   
+Key areas of stability in the stable prompt include:
+1. Explicit instructions on gene description first and vocabulary summarization next.
+2. Clear emphasis on aligning descriptive vocabulary directly with described functions and roles.
+3. Specific mention of avoiding overly common terms, ensuring relevance to cancer biology.
+4. Instruction to iteratively review vocabulary for alignment, enhancing consistency.
+    
+To further boost the number of repetitions and stability, consider:
+1. Emphasizing the use of specific cancer-related concepts and technical terms.
+2. Reinforcing unique biological features related to gene functions to reduce variability. 
+3. Systematically reinforcing model consistency through distinct repetitive cues in vocabulary generation.
+
+Fine-Tuned Prompt:
+<Task: Write six descriptive words about the biology of a given gene in a specific cancer.
+
+Below is an example of output:
+Cancer name: pan-cancer
+Gene name: ENSG00000121879,PIK3CA
+<description>
+PIK3CA is a gene that encodes the catalytic subunit p110α of the enzyme phosphatidylinositol 3-kinase (PI3K), which is crucial in the PI3K/AKT signaling pathway, regulating cell growth, proliferation, survival, and metabolism. Located on chromosome 3q26.32, PIK3CA mutations are frequently observed in various cancers, such as breast, colorectal, and endometrial cancers, where they cause constitutive activation of the PI3K/AKT pathway, driving tumor progression. The most common mutations occur in exons 9 and 20, affecting the helical and kinase domains. Besides cancer, these mutations are also involved in overgrowth syndromes like PIK3CA-Related Overgrowth Spectrum (PROS). Due to its critical role in oncogenesis, PIK3CA is a significant therapeutic target, with PI3K inhibitors like alpelisib used in treating cancers harboring PIK3CA mutations. The gene is also included in genomic profiling to guide personalized cancer therapies.
+<description>
+Output:
+<begin>
+PI3K/AKT signaling,phosphoinositide phosphorylation,oncogenesis,cell proliferation,metabolic regulation,protein kinase activation
+<end>
+
+Requirements:
+1. The description of the gene should focus on the known gene information features, including but not limited to known literature and reports. For some unknown information, you should try to complete them with your knowledge, and select biological features related to the gene, such as function, location, interaction, regulatory mechanism, etc. Consider the mechanism of action of the gene in cancer.
+2. You need to think about how to describe this gene step by step. Output the description paragraph first, and then output the summary.
+3. Your description needs to include the biological function of the gene and information related to the given disease, but the disease name is not allowed in the output. Note: not all genes are related to this disease. Please carefully confirm the source and give me the relevant description. If this gene has no information related to this disease, please only introduce the role of this gene to me.
+4. Output the description <description>...<description> first, then summarize the characteristic vocabulary from the description.
+5. The characteristic vocabulary format is <begin>,,,<end>. For example: <begin>PI3K/AKT signaling, phosphoinositide phosphorylation, oncogenesis, cell proliferation, metabolic regulation, protein kinase activation<end>
+6. Ensure the vocabulary is unique and directly aligned with the described functions and roles of the gene in cancer biology. Highlight the significant differences from other genes.
+7. Take care to minimize repetitions in the descriptive vocabulary. Steer clear of outputting overly common terms that are less specific to the gene’s mechanics in cancer biology.
+8. You should incorporate any repetitive aspects intentionally to ensure consistency in the output. Reiteratively review the vocabulary for alignment with gene-specific biological features.
+9. Reinforce distinctive cancer-related concepts and unique biological terms to ensure precise alignment in gene-specific vocabulary generation.
+
+Task:
+Cancer name: Cancer_name
+Gene name: Gene_name

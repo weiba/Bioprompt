@@ -1,0 +1,700 @@
+ENSG00000118242,MREG,melanosome biogenesis,tumor progression,metastasis,cell migration,invasion,epithelial-mesenchymal transition
+ENSG00000177181,RIMKLA,ribosomal protein modification,methylthiolation,protein synthesis,translation accuracy,cellular proliferation,survival mechanisms
+ENSG00000188352,FOCAD,cell adhesion,tumor metastasis,cell migration,metastatic spread,focal adhesion complex,cancer aggressiveness
+ENSG00000072954,TMEM38A,calcium homeostasis,sarcoplasmic reticulum,intracellular calcium signaling,cell proliferation,tumor progression,calcium channel dysfunction
+ENSG00000151806,GUF1,mitochondrial gtpase,rna splicing,mitochondrial translation,mitochondrial homeostasis,cancer progression,energetics alteration
+ENSG00000188175,HEPACAM2,cell adhesion molecule,tumor invasion,metastasis,cell-cell interactions,adhesion properties,tumor microenvironment
+ENSG00000068137,PLEKHH3,cell adhesion regulation,migration control,ph domain interaction,intracellular signaling,tumor metastasis,growth modulation
+ENSG00000168671,UGT3A2,drug metabolism,detoxification,xenobiotic metabolism,tumor progression,drug resistance,glucuronidation
+ENSG00000163898,LIPH,lipid metabolism regulation,tumorigenesis promotion,prognostic indicator,therapeutic target,tumor microenvironment modulation,protein interaction
+ENSG00000087116,ADAMTS2,extracellular matrix remodeling,procollagen processing,connective tissue disorder,tumor progression,metastasis,cell adhesion
+ENSG00000214456,PLIN5,lipid metabolism regulation,lipid droplet localization,tumor cell growth,metastatic potential,energy balance control,oncogenic pathways
+ENSG00000100344,PNPLA3,lipid metabolism,triglyceride hydrolysis,non-alcoholic fatty liver disease (nafld),hepatocellular carcinoma,adipose tissue expression,tumor growth promotion
+ENSG00000139974,SLC38A6,amino acid transport,nutrient sensing,glutamine uptake,metabolic reprogramming,tumor growth,signaling pathways interaction
+ENSG00000281919,SLC45A2,vitamin c transporter,melanin synthesis,cellular uptake,transport protein,melanoma biology,tumor microenvironment
+ENSG00000140675,SLC5A2,glucose metabolism,glucose uptake,energy supply,aerobic glycolysis,tumor proliferation,metabolic vulnerabilities
+ENSG00000113296,THBS4,cell adhesion,angiogenesis promotion,extracellular matrix interactions,tumor growth,metastasis,prognostic marker
+ENSG00000205268,PDE7A,camp signaling,cell proliferation,metastasis,intracellular signaling,tumor growth,therapeutic target
+ENSG00000188782,CATSPER4,sperm motility,fertilization,male infertility,ion channel,calcium entry,reproductive dysfunction
+ENSG00000170464,DNAJC18,chaperone protein,protein folding regulation,stress response,cell proliferation promotion,apoptosis inhibition,oncogenic potential
+ENSG00000103196,CRISPLD2,tumor suppression,apoptosis induction,immune response regulation,cell signaling pathways,downregulation in cancer,tumor progression suppression
+ENSG00000164176,EDIL3,cell adhesion,migration,integrin interaction,angiogenesis,promotes invasion,prognostic marker
+ENSG00000136883,KIF12,cell division,chromosome segregation,genomic instability,tumorigenesis,tumor growth,metastasis
+ENSG00000146006,LRRTM2,synaptic function,plasticity regulation,excitatory synapse development,neurexin interaction,neurological disorders association,tumorigenesis potential
+ENSG00000198754,OXCT2,ketone body metabolism,coa-transferase activity,tumor growth,cellular metabolism,energy homeostasis,metabolic reprogramming
+ENSG00000094975,SUCO,cell cycle regulation,tumor suppression,cyclin-dependent kinases,checkpoint control,cell proliferation,therapeutic target
+ENSG00000163053,SLC16A14,monocarboxylate transporter,tumor suppressor,lactate transport,downregulated expression,tumor aggressiveness,prognostic marker
+ENSG00000138111,MFSD13A,lipid metabolism,nutrient transport,tumor progression,metastasis,drug resistance,therapeutic target
+ENSG00000186377,CYP4X1,fatty acid oxidation,cytochrome p450 enzyme,lipid metabolism,tumorigenesis,metabolic dysregulation,potential oncogenic role
+ENSG00000196636,SDHAF3,mitochondrial enzyme complex,tca cycle,metabolic reprogramming,neuroendocrine tumors,reactive oxygen species,enzyme function
+ENSG00000276114,CCL23,immune cell recruitment,tumor microenvironment modulation,inflammation regulation,immune response modulation,tumor progression,anti-tumor immunity
+ENSG00000173638,SLC19A1,folate uptake,dna synthesis,cellular growth,methylation regulation,drug resistance,target for cancer treatment
+ENSG00000148950,IMMP1L,mitochondrial function,protein processing,energy metabolism,cell proliferation,biomarker,therapeutic target
+ENSG00000248099,INSL3,testicular descent,leydig cells,rxfp2 receptor,cryptorchidism,embryonic development,developmental disorders
+ENSG00000150045,KLRF1,nk cell cytotoxicity,tumor cell recognition,immune surveillance,anti-tumor response,checkpoint modulation,cancer immune evasion
+ENSG00000206150,RNASE13,rna degradation,gene expression regulation,oncogenic transcript stability,tumorigenesis,cancer development,research gap
+ENSG00000177202,SPACA4,testis-specific gene,unknown function,cancer expression,tumorigenesis involvement,further research needed,gene role clarification
+ENSG00000134905,CARS2,trna charging,protein synthesis,mitochondrial function,redox homeostasis,tumorigenesis,cellular pathways
+ENSG00000164494,PDSS2,coenzyme q10 biosynthesis,mitochondrial function,oxidative stress,cellular energy metabolism,tumor development,protein-protein interactions
+ENSG00000204140,CLPSL1,lipid metabolism,triglyceride hydrolysis,pancreatic lipase-colipase complex,dietary fat digestion,small intestine,functional implications
+ENSG00000188811,NHLRC3,glycogen metabolism,glycogen storage regulation,ubiquitination control,lafora disease association,cellular energy metabolism,potential impact on cell proliferation
+ENSG00000228083,IFNA14,type i interferon family,immune response activation,jak/stat signaling pathway,tumor suppressor,apoptosis induction,immune surveillance
+ENSG00000234829,IFNA17,interferon signaling,jak-stat pathway activation,antitumor immune response,cytotoxic activity enhancement,tumor immune evasion,therapeutic target
+ENSG00000138308,PLA2G12B,lipid metabolism,inflammation modulation,arachidonic acid release,tumor microenvironment,immune evasion,tumorigenesis
+ENSG00000263961,RHEX,immune response modulation,antigen presentation,immune checkpoint regulation,t cell activation,immune evasion,tumor metastasis
+ENSG00000173947,PIFO,transcription factor,gene expression regulation,cell proliferation,differentiation control,apoptosis modulation,tumorigenesis involvement
+ENSG00000109762,SNX25,endosomal sorting,vesicle formation,membrane trafficking,cellular homeostasis,protein-protein interactions,tumorigenesis
+ENSG00000090975,PITPNM2,lipid metabolism,intracellular trafficking,membrane dynamics,tumor growth,cell signaling,targeted therapy
+ENSG00000148343,MIGA2,mitochondrial dna replication,mitochondrial genome stability,energy production,cellular metabolism,mitochondrial dysfunction,metabolic reprogramming
+ENSG00000205111,CDKL4,cell cycle regulation,neuronal development,phosphorylation events,cell proliferation,neurodevelopmental disorders,potential tumorigenesis
+ENSG00000185838,GNB1L,signal transduction,g protein complex,gpcr signaling,proliferation,survival,metastasis
+ENSG00000176204,LRRTM4,synaptic adhesion,neuronal development,synaptic transmission,tumor suppression,downregulation,neurological disorders
+ENSG00000139044,B4GALNT3,glycosyltransferase enzyme,n-linked glycans biosynthesis,tumor progression,aberrant glycosylation,metastatic potential,protein-protein interactions
+ENSG00000182272,B4GALNT4,glycosylation modification,tumor progression,metastasis,immune evasion,cell adhesion,prognostic marker
+ENSG00000198799,LRIG2,receptor tyrosine kinase regulation,ubiquitination and degradation,cell proliferation inhibition,tumor suppressor function,tumor cell invasion,egfr
+ENSG00000146530,VWDE,autophagy regulation,double-membrane vesicle formation,cellular homeostasis,damage organelle clearance,tumor growth modulation,cell death evasion
+ENSG00000119900,OGFRL1,cell growth modulation,g-protein-coupled receptor,oncogenic processes,epithelial-mesenchymal transition,cell cycle control,tumor invasion
+ENSG00000113119,TMCO6,endoplasmic reticulum quality control,protein folding,er-associated degradation,unfolded protein response,tumorigenesis,cell survival
+ENSG00000171595,DNAI2,ciliary movement,dynein complex,ciliopathies,intracellular transport,cell division,tumor progression
+ENSG00000101448,EPPIN,protease inhibition,sperm protection,protein-protein interactions,immune modulation,inflammation signaling,reproductive system function
+ENSG00000249139,EPPIN-WFDC6,male reproductive system,sperm function,fertility,infertility,sperm motility,cancer treatment
+ENSG00000187800,PEAR1,platelet aggregation,hemostasis regulation,cell adhesion,thrombus formation,tumor angiogenesis,metastasis promotion
+ENSG00000180626,ZNF594,transcription factor,cell proliferation,chromatin remodeling,tumorigenesis,cancer progression,therapeutic target
+ENSG00000154415,PPP1R3A,glycogen metabolism regulation,pp1 regulatory subunit,energy balance modulation,metabolic dysregulation,tumor growth promotion,gene-specific metabolic alterations
+ENSG00000139292,LGR5,wnt/β-catenin signaling,stem cell marker,tumorigenesis,cancer stem cells,metastasis,chemoresistance
+ENSG00000173114,LRRN3,neuronal development,synaptic plasticity,axon guidance,cell adhesion,cancer progression,cell migration
+ENSG00000182168,UNC5C,apoptosis regulation,tumor suppressor function,netrin receptor,genetic alterations,metastasis inhibition,therapeutic target
+ENSG00000148468,FAM171A1,cell growth regulation,signal transduction,tumor progression,cellular division,oncogenic pathways,therapeutic potential
+ENSG00000152767,FARP1,rho gtpases regulation,cell migration promotion,tumor growth stimulation,metastasis facilitation,cytoskeleton reorganization,therapeutic target potential
+ENSG00000224940,PRRT4,proline-rich protein interactions,transmembrane signaling,neurotransmitter regulation,cellular signaling pathway,protein-protein interactions,unknown role in cancer
+ENSG00000113205,PCDHB3,cell-cell adhesion,protocadherin beta cluster,homophilic interactions,invasiveness,metastatic potential,tumor microenvironment
+ENSG00000117114,ADGRL2,synaptic transmission,neuronal development,neurotransmitter release,presynaptic protein interaction,neurological disorders,brain malignancies
+ENSG00000081760,AACS,lipid metabolism,cholesterol synthesis,fatty acid biosynthesis,tumorigenesis,cancer progression,cellular metabolism
+ENSG00000108846,ABCC3,drug resistance mechanism,abc transporter superfamily,chemotherapy resistance,tumor cell survival,xenobiotic transport,atp-binding cassette transporter
+ENSG00000112812,PRSS16,serine protease,tumor progression,cell invasion,metastasis,prognostic marker,tumor microenvironment interaction
+ENSG00000151005,TKTL2,pentose phosphate pathway,glucose metabolism,nadph generation,tumor progression,poor prognosis,upregulation
+ENSG00000170950,PGK2,glycolysis,energy production,tumor growth,metabolic reprogramming,warburg effect,atp generation
+ENSG00000164434,FABP7,lipid metabolism regulation,tumor growth promotion,metastasis facilitation,chemoresistance induction,biomarker potential,therapeutic target
+ENSG00000047365,ARAP2,gtpase-activating protein,cell migration,tumor metastasis,cytoskeletal organization,small gtpases,therapeutic target
+ENSG00000143891,GALM,carbohydrate metabolism,enzyme activity,metabolic reprogramming,tumor microenvironment,nutrient availability,pancreatic cancer
+ENSG00000101311,FERMT1,integrin activation,focal adhesion regulation,cell adhesion,cancer metastasis,invasive phenotypes,epithelial-mesenchymal transition
+ENSG00000100033,PRODH,proline metabolism,tumor progression,metastasis,cell proliferation,energy demands,glutamine metabolism
+ENSG00000253626,EIF5AL1,translation initiation,protein synthesis,ribosome interaction,oncogenic protein translation,tumor growth,therapeutic target
+ENSG00000134398,ERN2,unfolded protein response,er stress,tumor cell survival,cell proliferation,upr activation,metastasis
+ENSG00000156958,GALK2,galactose metabolism,phosphorylation activity,genetic disorder association,metabolic reprogramming,potential impact on cancer,catalytic function
+ENSG00000183208,GDPGP1,fucose metabolism,gdp-l-fucose synthesis,fucosylation reactions,tumorigenesis,glycosylation patterns,tumor microenvironment
+ENSG00000196475,GK2,glucose metabolism,metabolic reprogramming,glycolytic activity,growth advantage,signaling integration,proliferation
+ENSG00000099984,GSTT2,detoxification enzyme,glutathione conjugation,oxidative stress protection,carinogenic agent detoxification,tumor progression,chemotherapy resistance
+ENSG00000107902,LHPP,energy homeostasis regulation,histidine phosphorylation pathway,cellular metabolism modulation,tumor progression,signaling pathway modulation,therapeutic target
+ENSG00000198951,NAGA,lysosomal degradation,glycolipid accumulation,schindler disease,cellular metabolism,potential cancer involvement,cellular processes
+ENSG00000185792,NLRP9,inflammasome formation,immune response modulation,pro-inflammatory cytokines,tumor microenvironment regulation,cancer immunotherapy target,immune surveillance
+ENSG00000215440,NPEPL1,protease activity,peptide turnover,immune modulation,inflammation regulation,tumor microenvironment,limited cancer studies
+ENSG00000157045,NTAN1,protein degradation pathway,n-terminal amidase,ubiquitin-mediated degradation,protein stability regulation,tumor progression,oncogenic protein turnover
+ENSG00000218823,PAPOLB,mrna processing,mrna degradation,rna stability,translation regulation,oncogenic signaling,tumor progression
+ENSG00000127125,PPCS,coenzyme a biosynthesis,metabolic pathways,energy production,macromolecule synthesis,tumorigenesis,molecular function
+ENSG00000185164,NOMO2,nodal signaling modulation,tgf-β pathway interaction,cell fate decisions,tissue patterning,embryonic development,protein-protein interaction
+ENSG00000013583,HEBP1,heme biosynthesis,iron homeostasis regulation,cellular metabolism,tumorigenesis,enzyme function,cancer progression
+ENSG00000145284,SCD5,lipid metabolism,monounsaturated fatty acids,synthesis regulation,tumor growth,aggressive phenotype,therapeutic target
+ENSG00000100092,SH3BP1,metastasis promotion,signal transduction regulation,cytoskeleton organization,tumor progression,scaffold protein,cell migration
+ENSG00000171612,SLC25A33,mitochondrial carrier family,energy metabolism,cellular homeostasis,metabolic reprogramming,tumor growth,therapeutic target
+ENSG00000114779,ABHD14B,lipid metabolism,lipid homeostasis,tumor growth,metastasis,cellular lipid storage,protein interactions
+ENSG00000109667,SLC2A9,glucose transporter,urate regulation,hyperuricemia,gout,metabolic dysregulation,potential impact on cancer
+ENSG00000142871,CCN1,tumor microenvironment modulation,integrin interaction,angiogenesis promotion,cell proliferation,differentiation regulation,therapeutic target
+ENSG00000167962,ZNF598,mrna translation fidelity,ribosome stalling,dna damage response,genomic instability,mutation rates,cell proliferation
+ENSG00000214338,SOGA3,metabolic regulation,autophagy modulation,glucose suppression,tumorigenesis,cellular energy balance,therapeutic target
+ENSG00000176393,RNPEP,proteasomal degradation,aminopeptidase activity,protein turnover,tumorigenesis,oncogenic potential,protein-protein interactions
+ENSG00000105778,AVL9,endosomal trafficking,rab gtpases interaction,cell migration,epithelial-mesenchymal transition (emt),metastasis,tumor progression
+ENSG00000254656,RTL1,imprinting regulation,parent-of-origin-dependent silencing,placental development,aberrant expression,tumorigenesis,gene dysregulation
+ENSG00000172318,B3GALT1,glycosylation biosynthesis,cell-cell communication,tumor progression,cell adhesion,glycosphingolipids synthesis,metastasis
+ENSG00000172733,PURG,chromatin modification,gene regulation,cell cycle progression,cell proliferation,metastasis,dna damage response
+ENSG00000106034,CPED1,wnt signaling pathway,cell adhesion,tumor progression,metastasis,epithelial-mesenchymal transition,cellular signaling
+ENSG00000154165,GPR15,immune cell migration,tumor immune evasion,tumor microenvironment regulation,upregulated expression,chemokine interaction,cancer progression
+ENSG00000181827,RFX7,transcription factor,gene regulation,immune response,cell cycle control,tumor development,dna repair
+ENSG00000121075,TBX4,emt regulation,metastasis promotion,stemness pathways,invasion facilitation,signaling pathway interaction,tumor progression
+ENSG00000248905,FMN1,actin cytoskeleton organization,cell migration,metastasis,cytoskeleton dynamics,therapeutic target,cell motility
+ENSG00000160094,ZNF362,transcriptional repression,tumor suppressor,dna repair regulation,chromatin modification,cell cycle control,interacts with p53 pathway
+ENSG00000156787,TBC1D31,vesicle trafficking regulation,rab gtpase regulation,gtpase-activating protein,cell growth modulation,tumorigenesis,protein-protein interactions
+ENSG00000104983,CCDC61,cell proliferation regulation,migration modulation,tumor invasion facilitation,angiogenesis promotion,biomarker potential,cancer aggressiveness indicator
+ENSG00000277848,MEGF11,cell adhesion,signal transduction,tumor progression,epidermal growth factor-like domains,cell migration,protein-protein interactions
+ENSG00000143971,ETAA1,dna replication initiation,genome stability,dna repair,replication fork restart,cancer development,therapeutic target
+ENSG00000196074,SYCP2,meiotic cell division,genomic stability,dysregulation,chromosomal abnormalities,dna damage repair,therapeutic target
+ENSG00000263002,ZNF234,transcriptional regulation,zinc finger protein,gene expression,cell growth,oncogene regulation,tumorigenesis
+ENSG00000186020,ZNF529,transcriptional regulation,zinc finger protein,gene expression modulation,tumorigenesis,oncogenic processes,metastasis
+ENSG00000204611,ZNF616,transcription factor,cell differentiation,apoptosis regulation,oncogenic transformation,dna repair regulation,genomic stability
+ENSG00000244588,RAD21L1,cohesin complex,chromosome segregation,dna repair,genome stability,aneuploidy,tumor progression
+,FOPNL,centriolar satellites,centrosome function,protein transport,tumorigenesis,genomic instability,therapeutic target
+ENSG00000169607,CKAP2L,microtubule binding,cell division regulation,chromosome segregation,tumor formation,mitotic proteins interaction,cancer cell growth
+ENSG00000133739,LRRCC1,microtubule dynamics,protein-protein interactions,cytoplasmic localization,cellular transport,tumorigenesis,regulatory role
+ENSG00000169359,SLC33A1,acetyl-coa transport,endoplasmic reticulum,lipid synthesis,protein acetylation,er stress response,autophagy
+ENSG00000006831,ADIPOR2,adiponectin receptor,metabolic regulation,ampk signaling,tumor progression,therapeutic target,biomarker identification
+ENSG00000138018,SELENOI,antioxidant defense,oxidative stress,dna damage,tumorigenesis,cell signaling,selenocysteine incorporation
+ENSG00000164168,TMEM184C,cell proliferation,metastasis promotion,prognostic indicator,oncogenic signaling,cell membrane interaction,genetic alterations
+ENSG00000146842,TMEM209,cell membrane localization,signal transduction,tumor progression,cell migration,protein interactions,prognostic marker
+ENSG00000166471,TMEM41B,autophagy regulation,cellular homeostasis,organelle turnover,oncogenic susceptibility,damaged protein clearance,therapeutic target
+ENSG00000175274,TP53I11,p53 regulation,apoptosis induction,tumor suppressor,cell death pathways,cellular stress response,oncogenic potential
+ENSG00000139636,LMBR1L,shh signaling,limb development,patterning,preaxial polydactyly,tumorigenesis,cell proliferation
+ENSG00000143797,MBOAT2,pi metabolism,pi3k signaling,lysophospholipid acylation,cell proliferation,tumorigenesis,biosynthesis
+ENSG00000111860,CEP85L,centrosome regulation,chromosome segregation,cell cycle control,centriole duplication,genomic instability,tumorigenesis
+ENSG00000170390,DCLK2,tumor growth promotion,invasion facilitation,metastasis promotion,signaling pathway regulation,proliferation modulation,survival regulation
+ENSG00000100147,CCDC134,cell division regulation,tumorigenesis,cell growth promotion,protein interaction,signaling pathway modulation,genetic instability
+ENSG00000158966,CACHD1,cell adhesion,signaling pathways,tumorigenesis,protein interaction,cellular processes,potential oncogene
+ENSG00000148358,GPR107,signal transduction,cellular processes,g protein-coupled receptor,tumorigenesis,cancer progression,therapeutic target
+ENSG00000176018,LYSMD3,immune response modulation,toll-like receptor signaling,nf-kb activation,pro-inflammatory cytokines,tumor microenvironment interactions,inflammatory responses
+ENSG00000124786,SLC35B3,udp-glcnac transport,glycosylation regulation,protein stability modification,tumor progression,immune evasion,altered glycosylation patterns
+ENSG00000131389,SLC6A6,taurine transporter,cellular uptake,osmoregulation,cell proliferation,metastasis,therapeutic target
+ENSG00000149483,TMEM138,endoplasmic reticulum localization,membrane trafficking regulation,protein transport modulation,cellular homeostasis maintenance,cell signaling pathway modulation,tumor progression influence
+ENSG00000180776,ZDHHC20,protein palmitoylation,post-translational modification,oncogenic signaling,cell growth regulation,tumor aggressiveness,protein stability
+ENSG00000163704,PRRT3,synaptic transmission,neurotransmitter release,brain expression,tumor progression,cell migration,cell invasion
+ENSG00000173930,SLCO4C1,substrate transport,cellular uptake,metabolic regulation,oncogenic potential,dysregulation,tumorigenesis
+ENSG00000187049,TMEM216,ciliogenesis regulation,cellular signaling disruption,dna repair mechanism,genomic stability maintenance,mechanosensation modulation,potential therapeutic target
+ENSG00000116396,KCNC4,voltage-gated potassium channel,neuronal excitability regulation,brain expression,neurological disorders,tumorigenesis implication,signaling pathway crosstalk
+ENSG00000103061,SLC7A6OS,long non-coding rna,regulatory role,protein interaction,tumor progression,metastasis,drug resistance
+ENSG00000164403,SHROOM1,actin cytoskeleton regulation,cell shape modulation,tissue organization,epithelial tumor progression,cell polarity control,tumorigenesis
+ENSG00000100124,ANKRD54,gene expression regulation,chromatin remodeling,transcription factor interaction,cell growth,dna damage response,tumor progression
+ENSG00000114541,FRMD4B,hippo signaling pathway,tumor suppressor gene,cell proliferation regulation,survival control,migration inhibition,gene expression modulation
+,KIAA0556,intracellular transport,vesicle trafficking,cell structure maintenance,cellular communication regulation,tumor microenvironment modulation,tumor progression
+ENSG00000148459,PDSS1,ubiquinone synthesis,mitochondrial function,energy metabolism,electron transport chain,mitochondrial disorders,tumorigenesis
+ENSG00000019186,CYP24A1,vitamin d metabolism,enzyme degradation,calcitriol inactivation,cell differentiation,immune function regulation,tumor progression
+ENSG00000174886,NDUFA11,mitochondrial respiratory chain,electron transport,oxidative phosphorylation,metabolic reprogramming,tumor progression,driver gene
+ENSG00000110074,FOXRED1,mitochondrial respiratory chain complex i assembly,oxidative phosphorylation,energy production,reactive oxygen species,genomic instability,tumorigenesis
+ENSG00000144406,UNC80,neuronal excitability regulation,sodium leak channel complex,resting membrane potential,neuronal firing patterns,neurotransmitter release,tumorigenesis
+ENSG00000164296,TIGD6,spermatogenesis,cellular regulation,testis-specific expression,unknown function in cancer,research needed,cellular processes
+ENSG00000004848,ARX,transcription factor,neurodevelopmental disorders,brain development,cell proliferation,metastasis,transcriptional regulation
+ENSG00000172197,MBOAT1,lipid metabolism,membrane homeostasis,acyltransferase activity,tumorigenesis,signaling pathways,drug resistance
+ENSG00000171487,NLRP5,inflammasome formation,innate immunity modulation,pro-inflammatory cytokine release,tumor microenvironment,dysregulated inflammation,nlr family protein
+ENSG00000183340,JRKL,cell cycle regulation,dna repair,apoptosis,genomic stability,gene expression modulation,tumor microenvironment
+ENSG00000167701,GPT,amino acid metabolism,alanine transaminase,pyruvate production,glutamate synthesis,metabolic imbalance,therapeutic target
+ENSG00000131848,ZSCAN5A,transcriptional regulation,chromatin remodeling,cell proliferation,promotes survival,tumor progression,gene expression
+ENSG00000113248,PCDHB15,cell adhesion,neurodevelopment functions,metastasis potential,tumor progression,epithelial-mesenchymal transition,cellular connectivity
+ENSG00000166548,TK2,mitochondrial nucleotide salvage pathway,deoxynucleoside phosphorylation,mitochondrial dna synthesis,mitochondrial depletion syndromes,impaired mitochondrial function,therapeutic target
+ENSG00000274538,PHLDA2,tumor suppressor,apoptosis inducer,cell growth regulator,pi3k/akt/mtor signaling,biomarker potential,cancer prognosis
+ENSG00000005889,ZFX,transcription factor,gene expression regulation,stemness maintenance,tumor initiation,metastatic progression,therapeutic target
+ENSG00000164099,PRSS12,extracellular matrix degradation,metastasis promotion,proteolytic activity,tumor invasion,protein cleavage,oncogenic interactions
+ENSG00000275568,ARHGAP11A,rho gtpase regulation,cell migration control,actin cytoskeleton dynamics,tumor metastasis,prognostic marker,focal adhesion modulation
+ENSG00000138640,FAM13A,cell proliferation regulation,wnt/beta-catenin pathway interaction,tumor progression promotion,metastasis facilitation,therapeutic target,dysregulation in cancer
+ENSG00000173083,HPSE,tumor invasion,metastasis promotion,extracellular matrix degradation,angiogenesis stimulation,prognostic factor,tumor microenvironment modulation
+ENSG00000134802,SLC43A3,amino acid transport,nutrient uptake,cellular homeostasis,tumor growth,survival advantage,interactions with cellular pathways
+ENSG00000111696,NT5DC3,nucleotide metabolism,hydrolysis activity,tumor progression,cell proliferation,signal transduction,interactions with key pathways
+ENSG00000056586,RC3H2,rna-binding protein,post-transcriptional regulation,mrna decay,translational repression,immune response modulation,tumor progression
+ENSG00000074657,ZNF532,transcriptional regulator,cell proliferation,tumor progression,metastasis,oncogenic pathways,therapeutic target
+ENSG00000024526,DEPDC1,mtorc1 signaling,cell growth regulation,tumor progression,negative regulator,therapeutic target,prognostic marker
+ENSG00000125454,SLC25A19,mitochondrial thiamine transporter,thiamine pyrophosphate biosynthesis,thiamine-responsive megaloblastic anemia,metabolic reprogramming,tumor progression,energy metabolism
+ENSG00000134343,ANO3,calcium-activated chloride channels,ion transport,cell excitability,signal transduction,tumorigenesis,therapeutic target
+ENSG00000123600,METTL8,rna methylation,n6-methyladenosine modification,rna metabolism regulation,mrna translation control,tumorigenesis association,gene expression modulation
+ENSG00000091622,PITPNM3,membrane dynamics,intracellular trafficking,vesicle trafficking,cell migration,tumor progression,drug resistance
+ENSG00000204991,SPIRE2,actin dynamics regulation,cell migration promotion,metastasis facilitation,cancer aggressiveness biomarker,actin polymerization modulation,spire family member
+ENSG00000186001,LRCH3,cell signaling,cytoskeleton organization,protein-protein interactions,actin binding,tumor metastasis,oncogenic activities
+ENSG00000213799,ZNF845,transcriptional regulation,dna repair mechanism,epigenetic modification,cell proliferation,tumorigenesis,therapeutic target
+ENSG00000017483,SLC38A5,glutamine transport,tumor progression,amino acid uptake,metabolic demands,chemoresistance,cancer cell survival
+ENSG00000203705,TATDN3,nucleic acid metabolism,dna repair,genomic instability,carcinogenesis,maintenance processes,dysregulation
+ENSG00000123165,ACTRT1,actin dynamics,cell motility,tumor aggressiveness,metastatic potential,cell migration,chemotherapy response
+ENSG00000180346,TIGD2,dna methylation regulation,chromatin organization,genomic stability,cancer development,epigenetic modification,tumor progression
+ENSG00000173681,BCLAF3,apoptotic regulation,transcriptional repression,tumorigenesis promotion,protein complex formation,chemotherapy resistance,therapeutic target
+ENSG00000277972,CISD3,iron-sulfur cluster biogenesis,mitochondrial function,cellular metabolism,iron homeostasis,oxidative stress response,tumorigenesis
+ENSG00000185189,NRBP2,adaptor protein,cell signaling,autophagy modulation,immune response,oncogenic potential,tumor progression
+ENSG00000257315,ZBED6,transcriptional regulation,chromatin remodeling,cell growth control,apoptosis modulation,dna repair,tumorigenesis
+ENSG00000070601,FRMPD1,cell adhesion,signaling pathways,protein-protein interactions,gene regulation,metastasis,unknown mechanisms
+ENSG00000163623,NKX6-1,transcription factor,pancreatic beta cells,tumor suppressor,insulin secretion,metastasis inhibitor,pancreatic cancer
+ENSG00000104967,NOVA2,alternative splicing regulator,neuron-specific expression,neurological disorders,cell proliferation,invasion,metastasis
+ENSG00000184677,ZBTB40,transcriptional repressor,cell proliferation,apoptosis regulation,tumor progression,epithelial-mesenchymal transition,corepressor interactions
+ENSG00000251493,FOXD1,transcription factor,tumor progression,metastasis,drug resistance,cell cycle regulation,oncogenesis
+ENSG00000178919,FOXE1,thyroid morphogenesis,transcription factor,endodermal organ development,aberrant expression,tumorigenesis,metastasis
+ENSG00000186766,FOXI2,emt regulation,cell migration,tumor metastasis,extracellular matrix remodeling,drug resistance,transcription factor activity
+ENSG00000179981,TSHZ1,transcription factor,gene regulation,cell proliferation,migration,invasion,tumor progression
+ENSG00000176678,FOXL1,emt regulation,metastasis promotion,transcription factor,tumor progression,prognostic marker,therapeutic target
+ENSG00000164379,FOXQ1,emt regulation,tumor progression,transcription factor,cell proliferation,metastasis promotion,therapeutic target
+ENSG00000267728,KRTAP9-9,keratin-associated protein,hair shaft formation,keratin interactions,cytoskeletal organization,cellular signaling pathways,hair biology
+ENSG00000180386,KRTAP9-7,hair formation,keratin-associated protein,tumor progression,cell proliferation,cellular interaction,oncogenic phenotype
+ENSG00000240542,KRTAP9-1,keratin-associated protein,hair structure,development,tumor microenvironment,dysregulation,oncogenic processes
+ENSG00000162782,TDRD5,rna metabolism,post-transcriptional regulation,mrna splicing,rna-protein complexes,oncogene expression,microrna pathway
+ENSG00000227140,USP17L5,ubiquitin-specific protease,protein degradation regulation,tumor progression,protein stability,cellular homeostasis,signaling pathway modulation
+ENSG00000230549,USP17L1,deubiquitinating enzyme,dna damage response,cell cycle regulation,protein stability,tumorigenesis,metastasis promotion
+ENSG00000144659,SLC25A38,mitochondrial phosphate transport,cellular energy production,metabolic reprogramming,mitochondrial dysfunction,tumor progression,genomic alterations
+ENSG00000188452,CERKL,sphingolipid signaling,ceramide metabolism,cell growth regulation,tumorigenesis,therapeutic target,protein interaction
+ENSG00000176567,OR4X1,olfactory receptor signaling,tumor progression,metastasis,aberrant expression,novel therapeutic target,olfactory receptor-mediated pathways
+ENSG00000214435,AS3MT,arsenic metabolism,methyltransferase activity,detoxification process,arsenic biotransformation,carcinogenicity susceptibility,toxic metabolites
+ENSG00000196917,HCAR1,lactate signaling,metabolic regulation,immune evasion,tumor growth,therapeutic target,energy production
+ENSG00000184347,SLIT3,robo receptor ligand,tumor suppression,cell migration inhibition,angiogenesis modulation,immune response regulation,metastasis suppression
+ENSG00000165973,NELL1,tumor growth,cell adhesion,metastasis,angiogenesis,immune evasion,extracellular matrix interactions
+ENSG00000171714,ANO5,calcium-activated chloride channel,skeletal muscle expression,tumorigenesis,metastasis,mechanism unclear,research needed
+ENSG00000170613,FAM71B,gene regulation,cellular processes modulation,proliferation,migration,apoptosis,tumorigenesis
+ENSG00000261221,ZNF865,transcription factor activity,cell proliferation regulation,gene expression modulation,tumor progression,metastasis,regulatory signaling pathways
+ENSG00000139800,ZIC5,transcription factor,cell differentiation,tumorigenesis,cell migration,oncogenic targets,signaling pathways
+ENSG00000224877,NDUFAF8,mitochondrial respiratory chain,oxidative phosphorylation,cellular metabolism disruption,tumor progression,survival advantage,protein-protein interactions
+ENSG00000240857,RDH14,retinol metabolism,retinoic acid signaling,cell growth regulation,sensitivity to retinoid therapy,apoptosis modulation,functional role in cancer
+ENSG00000101166,PRELID3B,mitochondrial function,protein translocation,mitochondrial dynamics,cellular metabolism,energy production,tumor progression
+ENSG00000127184,COX7C,mitochondrial respiration,energy metabolism disruption,metabolic reprogramming,tumor cell survival,chemotherapy resistance,cytochrome c oxidase dysfunction
+ENSG00000240230,COX19,mitochondrial biogenesis,cytochrome c oxidase assembly,oxidative phosphorylation,energy metabolism,reactive oxygen species,therapeutic target
+ENSG00000123815,COQ8B,mitochondrial biogenesis,coenzyme q biosynthesis,atp production,cellular respiration,mitochondrial dysfunction,tumor metabolism
+ENSG00000135469,COQ10A,mitochondrial electron transport,atp production,oxidative stress,antioxidant activity,metabolic reprogramming,tumorigenesis
+ENSG00000173085,COQ2,coenzyme q10 biosynthesis,mitochondrial function,oxidative stress,energy metabolism,cancer cell survival,metabolic reprogramming
+ENSG00000167799,NUDT8,nudix hydrolase family,nucleoside diphosphate hydrolysis,cellular metabolism regulation,dna integrity maintenance,oxidative stress response,tumor cell survival
+ENSG00000165443,PHYHIPL,lipid metabolism,fatty acid oxidation,peroxisome function,phytanic acid breakdown,refsum disease,potential role in cancer
+ENSG00000115520,COQ10B,mitochondrial function,coenzyme q biosynthesis,energy production,tumorigenesis,cellular metabolism,research gaps
+ENSG00000185973,TMLHE,carnitine biosynthesis,trimethyllysine metabolism,enzyme function,fatty acid metabolism,energy production,metabolic pathways
+ENSG00000006282,SPATA20,cell cycle regulation,dna damage response,apoptosis modulation,reproductive process regulation,protein-protein interaction,genomic stability
+ENSG00000146250,PRSS35,protease activity,tumor microenvironment modulation,oncogenic potential,metastasis promotion,inflammation regulation,immune response modulation
+ENSG00000184831,APOO,mitochondrial atp synthase assembly,cellular metabolism regulation,energy production,cell proliferation,mitochondrial dysfunction,tumorigenesis
+ENSG00000144481,TRPM8,calcium-permeable channel,cold sensor,menthol receptor,tumor growth,invasion,metastasis
+ENSG00000198771,RCSD1,creb regulation,transcription factor modulation,gene expression alteration,oncogenic signaling,cellular response mediation,metastatic potential
+ENSG00000276776,TC2N,dna repair,genomic instability,double-strand break repair,chromatin modification,oncogenesis,susceptibility to dna damage
+ENSG00000163608,NEPRO,cell-cell adhesion,signaling,glomerular filtration barrier,renal function,tumor microenvironment,metastasis
+ENSG00000174990,CA5A,carbonic anhydrase,ph homeostasis,enzyme family,tumorigenesis,altered expression,mechanistic role
+ENSG00000167800,TBX10,transcription factor,embryonic development,gene regulation,organogenesis,tumor progression,aberrant expression
+ENSG00000235608,NKX1-1,transcription factor,lung development,overexpression,tumor progression,metastasis,poor prognosis
+ENSG00000131845,ZNF304,transcription regulation,krüppel c2h2-type zinc finger protein,cell proliferation,tumor suppressor/oncogene,dna binding,cancer progression
+ENSG00000105467,SYNGR4,synaptic vesicle trafficking,neurodevelopment,neuronal function,cell proliferation,migratory capacity,intracellular communication
+ENSG00000213853,EMP2,cell adhesion,migration,invasion,tumor progression,metastasis,protein interaction
+ENSG00000132294,EFR3A,phospholipid homeostasis,phosphatidylinositol biosynthesis,lipid metabolism,tumorigenesis,cell growth regulation,signaling pathways
+ENSG00000165757,JCAD,cell-cell adhesion,tight junction regulation,cancer progression,invasion,metastasis,cell signaling
+ENSG00000165959,CLMN,transmembrane protein,brain expression,synaptic transmission,vesicle trafficking,tumorigenesis,cell adhesion
+ENSG00000115459,ELMOD3,cell motility regulation,engulfment process,arf family gtpases,gtpase activating protein,tumor progression,metastasis
+ENSG00000166897,ELFN2,extracellular interactions,tumor microenvironment modulation,immunosuppression,metastasis promotion,therapeutic target,immune checkpoint regulation
+ENSG00000288318,PALM3,cell morphology regulation,membrane dynamics,intracellular trafficking,upregulated expression,cell migration,metastasis
+ENSG00000215252,GOLGA8B,golgi apparatus regulation,protein trafficking,post-translational modification,cellular processes,tumorigenesis,limited cancer association
+ENSG00000116157,GPX7,antioxidant defense,oxidative stress,tumor development,dna damage,redox homeostasis,therapeutic target
+ENSG00000212657,KRTAP16-1,cell adhesion,epithelial-mesenchymal transition,keratin-associated protein,tumor invasion,hair shaft formation,cytoskeletal proteins
+ENSG00000170667,RASA4B,ras signaling pathway,gtpase-activating protein,negative regulator,tumorigenesis inhibition,therapeutic target,cellular homeostasis
+ENSG00000284965,OR2F2,olfactory receptor,g protein-coupled receptor,aberrant expression,tumorigenesis,cancer development,emerging role
+ENSG00000130368,MAS1,g protein-coupled receptor,cell proliferation,angiogenesis,metastasis,tumor microenvironment,immune modulation
+ENSG00000154678,PDE1C,cyclic nucleotide signaling,calmodulin-dependent enzyme,tumor progression,second messenger regulation,cell proliferation,poor prognosis
+ENSG00000188107,EYS,retinal degeneration,photoreceptor cells,inherited mutations,visual transduction cascade,impaired vision,cell death
+ENSG00000172824,CES4A,drug metabolism,xenobiotic detoxification,ester bond hydrolysis,chemoresistance,metabolic activation,treatment failure
+ENSG00000214595,EML6,mitotic spindle formation,chromosome segregation regulation,cell division,dynamic microtubule assembly,tumorigenesis,potential oncogene
+ENSG00000238243,OR2W3,olfactory receptor family,odor molecule detection,olfactory epithelium expression,cell signaling pathway interaction,tumor microenvironment modulation,metastasis promotion
+,PRSS42,extracellular matrix degradation,tissue remodeling,upregulation in cancer,tumor invasion,metastasis promotion,pro-metastatic signaling pathways
+126231,ZNF573,transcriptional regulation,gene expression control,cell proliferation modulation,tumorigenesis,dysregulation impact,dna binding specificity
+ENSG00000102043,MTMR8,phosphoinositide metabolism,autophagy regulation,membrane trafficking,endocytosis interaction,oncogenic potential,tumor invasion
+ENSG00000189108,IL1RAPL2,neuronal development,cell-cell interactions,central nervous system,autism spectrum disorders,cell signaling,molecular pathways
+ENSG00000254245,PCDHGA3,cell adhesion,neuronal connectivity,dysregulation,invasiveness,metastasis,immune response
+ENSG00000174948,GPR149,g protein-coupled receptor,signal transduction,tumor progression,cell growth,dysregulation,oncogenesis
+ENSG00000167065,DUSP18,mapk signaling regulation,tumor suppressor function,erk1/2 dephosphorylation,cell proliferation inhibition,immune response modulation,inflammatory pathway regulation
+ENSG00000156194,PPEF2,signal transduction regulation,cell cycle modulation,cell growth control,dysregulation in tumorigenesis,abnormal cell proliferation,oncogenic potential
+ENSG00000203867,RBM20,alternative splicing regulation,sarcomeric gene expression,cardiac tissue specificity,mutation-induced aberrant splicing,post-transcriptional control,interactions with rna-binding proteins
+ENSG00000167861,HID1,dna repair,genomic stability,double-strand breaks,genomic instability,tumorigenesis,cell cycle modulation
+ENSG00000198585,NUDT16,genomic stability,dna repair,nucleotide hydrolysis,cell cycle regulation,genomic instability,protein interaction
+ENSG00000213973,ZNF99,transcription factor,cell growth regulation,dna repair mechanism,apoptosis,cell cycle control,genomic stability
+ENSG00000263464,PPIAL4C,protein folding,protein trafficking,cellular homeostasis,signaling pathways,tumorigenesis,therapeutic target
+ENSG00000137080,IFNA21,type i interferon,innate immune response,antitumor activity,apoptosis induction,immune modulation,tumor microenvironment modulation
+ENSG00000174482,LINGO2,neurogenesis regulation,myelination pathway,oligodendrocyte development,cell differentiation inhibition,signaling pathway interaction,tumorigenesis impact
+ENSG00000197479,PCDHB11,cell adhesion,cell-cell communication,tumorigenesis,intracellular signaling,cell proliferation,therapeutic target
+ENSG00000250120,PCDHA10,cell-adhesion protein,neural development,aberrant expression,tumor progression,epithelial-to-mesenchymal transition,invasion
+ENSG00000211679,IGLC3,antibody production,tumor antigen recognition,immune surveillance,dysregulation,cancer progression,immunoglobulin lambda
+ENSG00000253910,PCDHGB2,cell-cell adhesion,protocadherin gamma gene cluster,intercellular communication,cell surface protein,tumor progression,cell adhesion molecules
+ENSG00000254221,PCDHGB1,cell adhesion molecule,neuronal development,cell-cell recognition,tumorigenesis,anti-adhesive function,cancer progression
+ENSG00000248383,PCDHAC1,cell-cell adhesion,signaling pathways,tissue integrity,tumorigenesis,invasion,metastasis
+ENSG00000198077,CYP2A7,cytochrome p450 enzyme,metabolic activation,detoxification,carcinogen metabolism,cellular modulation,oncogenic potential
+ENSG00000186190,BPIFB3,innate immune response,antimicrobial protein,upper respiratory tract,tumor development,immune system interaction,inflammatory pathways
+ENSG00000165246,NLGN4Y,cell adhesion,synaptic function,prostate cancer,tumor aggressiveness,poor prognosis,signaling pathways
+ENSG00000236334,PPIAL4G,protein folding,protein stability,catalytic activity,tumor progression,metastasis,potential therapeutic target
+ENSG00000131398,KCNC3,voltage-gated potassium channel,neuronal excitability,action potential firing,neurodegenerative disorders,spinocerebellar ataxia,tumor microenvironment
+ENSG00000272674,PCDHB16,cell-cell adhesion,tumor progression,metastasis,microenvironment interactions,invasion,migration
+ENSG00000251664,PCDHA12,cell adhesion molecule,cell-cell recognition,neuronal connections,protocadherin family,tumor cell migration,tumor cell invasion
+,IGLC2,adaptive immune response,antibody production,immunoglobulin lambda chain,tumor microenvironment interaction,immune surveillance,b cell-specific gene expression
+ENSG00000187372,PCDHB13,cell adhesion regulator,tumorigenesis driver,cell-cell recognition,metastasis promoter,signaling pathway interaction,tissue integrity maintainer
+ENSG00000255408,PCDHA3,cell adhesion,neuronal development,synapse formation,cell-cell interactions,cell identity,nervous system organization
+ENSG00000162365,CYP4A22,fatty acid metabolism,eicosanoid production,cytochrome p450 enzyme,lipid signaling,inflammation regulation,cell proliferation
+ENSG00000239389,PCDHA13,cell-cell adhesion,cadherin family,neuronal connections,tissue organization,tumor progression,metastasis
+ENSG00000204961,PCDHA9,cell adhesion,neuronal development,tumor progression,metastasis,prognostic marker,protocadherin cluster
+ENSG00000160870,CYP3A7,drug metabolism,hormone synthesis,tumor initiation,carcinogenic metabolites,treatment response,enzyme interactions
+ENSG00000186526,CYP4F8,lipid metabolism,arachidonic acid metabolism,angiogenesis regulation,cell proliferation,upregulation in cancer,therapeutic target
+ENSG00000276547,PCDHGB5,cell-cell adhesion,neural development,cell recognition,tumor invasion,metastasis,protocadherin function
+ENSG00000253953,PCDHGB4,cell-cell adhesion,protocadherin superfamily,tissue morphogenesis,tumor invasion,genomic alterations,driver role
+ENSG00000166173,LARP6,mrna translation regulation,5'-top motif interaction,cell growth modulation,tumor development,translation efficiency,oncogene/tumor suppressor gene regulation
+ENSG00000284810,CTRB2,serine protease,tumor growth,cell proliferation,invasion,signaling pathways,therapeutic target
+ENSG00000100012,SEC14L3,lipid metabolism,intracellular transport,cell membrane integrity,signal transduction,tumorigenesis,therapeutic target
+ENSG00000253485,PCDHGA5,cell adhesion,tumor progression,cell-cell interactions,signaling pathways,metastasis,aberrant expression levels
+ENSG00000197838,CYP2A13,tobacco carcinogen activation,lung cancer development,dna damage,metabolic activation,chemoresistance,carcinogen metabolism
+ENSG00000105889,STEAP1B,metalloreductase function,iron homeostasis,cell membrane localization,cell proliferation,metastasis,drug resistance
+ENSG00000051128,HOMER3,scaffolding protein,signal transduction modulation,synaptic function,protein-protein interactions,neurodevelopment,tumorigenesis potential
+ENSG00000262209,PCDHGB3,cell-cell adhesion,tissue integrity,cell signaling,neuronal development,immune response,tumorigenesis
+ENSG00000214042,IFNA7,type i interferon,jak-stat signaling,antitumor immunity,immune response,tumor suppression,immunotherapy target
+ENSG00000243709,LEFTY1,tumor suppressor,embryonic development,epithelial-to-mesenchymal transition,immune modulation,none,none
+ENSG00000124467,PSG8,immunomodulatory function,pregnancy-specific glycoprotein,tumor microenvironment,immune tolerance,dysregulation,anti-inflammatory cytokines
+ENSG00000071073,MGAT4A,n-glycosylation,glycan biosynthesis,tumor aggressiveness,biomarker potential,metastasis,therapeutic target
+ENSG00000130751,NPAS1,transcription factor,neural development,synaptic plasticity,oncogene,tumor cell proliferation,metastasis
+ENSG00000095587,TLL2,ecm remodeling,metalloprotease activity,cell adhesion,tissue morphogenesis,metastasis,growth factor signaling
+ENSG00000163295,ALPI,alkaline phosphatase activity,tumor microenvironment modulation,immune responses regulation,metastasis promotion,drug resistance,cell growth regulation
+ENSG00000059691,GATB,antioxidant defense,glutathione synthesis,dna repair,oxidative stress,tumorigenesis,cellular redox balance
+ENSG00000004809,SLC22A16,drug resistance,organic cation transporter,chemotherapeutic agents,treatment resistance,intracellular concentration,anticancer drugs
+ENSG00000113212,PCDHB7,cell adhesion molecule,homophilic interactions,tumor invasion,metastasis,diagnostic target,therapeutic target
+ENSG00000204970,PCDHA1,cell-cell adhesion,signal transduction,neural development,tumor progression,metastasis,oncogene
+ENSG00000131409,LRRC4B,cell adhesion,neurite outgrowth,synapse formation,plasticity regulation,cancer cell migration,cancer invasion
+ENSG00000198131,ZNF544,transcription factor,zinc finger domain,gene regulation,cell differentiation,tumorigenesis,oncogenic processes
+ENSG00000186297,GABRA5,ion channel modulation,neurotransmission regulation,tumorigenesis promotion,cancer progression,gabaa receptor subunit,potential oncogenic role
+ENSG00000174348,PODN,extracellular matrix regulation,cell-matrix interactions,tumor progression,metastasis,biomarker potential,tumor microenvironment
+ENSG00000189184,PCDH18,cell-cell adhesion,protocadherin family,neural development,tumor suppression,wnt signaling pathway,cancer progression
+ENSG00000242419,PCDHGC4,cell adhesion,tumor metastasis,homophilic interaction,signal transduction,cancer progression,tumor microenvironment
+ENSG00000100003,SEC14L2,lipid metabolism,intracellular signaling,membrane trafficking,dysregulation,tumorigenesis,metastasis
+ENSG00000112852,PCDHB2,cell-cell adhesion,dysregulation,metastatic potential,tumor suppression,migration,invasion
+ENSG00000111799,COL12A1,extracellular matrix,tumor progression,metastasis,collagen organization,prognostic marker,therapeutic target
+ENSG00000213512,GBP7,immune modulation,inflammatory response,immune microenvironment,tumor immune evasion,cytokine signaling,metastasis promotion
+ENSG00000228278,ORM2,acute-phase response,inflammation regulation,immune modulation,tumor microenvironment,dysregulation,homeostasis maintenance
+ENSG00000185674,LYG2,lysosome activity,cellular degradation,cellular homeostasis,lysosomal function,cellular waste accumulation,cancer development
+ENSG00000134249,ADAM30,cell adhesion,proteolytic processing,integrin signaling,tumor progression,biomarker,immune modulation
+ENSG00000015413,DPEP1,amino acid metabolism,membrane-bound dipeptidase,hydrolysis of dipeptides,protein synthesis,energy production,tumorigenesis
+ENSG00000139200,PIANP,extracellular matrix protein,collagen biosynthesis,tumor invasion,metastasis,tumor microenvironment,immune regulation
+ENSG00000141096,DPEP3,metabolic regulation,peptide degradation pathways,amino acid metabolism,enzyme function,protease activity,cellular homeostasis
+ENSG00000113211,PCDHB6,cell-adhesion protein,tumor suppressor gene,downregulation,loss of function,cell proliferation,metastasis
+ENSG00000138650,PCDH10,cell adhesion,tumor suppressor,cell proliferation regulation,cell migration,genetic alterations,therapeutic target
+ENSG00000118946,PCDH17,cell-cell adhesion,tumor suppressor,epithelial-mesenchymal transition (emt),cancer metastasis,cell proliferation,neuronal development
+ENSG00000167740,CYB5D2,metabolic regulation,redox homeostasis,cell proliferation,drug response,electron transfer,tumor progression
+ENSG00000158467,AHCYL2,epigenetic regulation,methyltransferase inhibition,gene expression modulation,tumorigenesis,cellular processes impact,therapeutic target
+ENSG00000074935,TUBE1,microtubule formation,cytoskeletal organization,gene expression regulation,cellular motility,cell division,extracellular signal sensing
+ENSG00000165105,RASEF,ras signaling,gtpase activity,tumor suppressor,cell proliferation,signal transduction,protein-protein interaction
+ENSG00000221968,FADS3,fatty acid desaturase,lipid metabolism,polyunsaturated fatty acids,tumorigenesis,inflammatory response,drug resistance
+ENSG00000136478,TEX2,genomic stability,dna repair,homologous recombination,nucleotide excision repair,tumorigenesis,genome integrity
+ENSG00000170373,CST1,extracellular matrix modulation,tumor progression and metastasis,protease inhibitor,regulation of protease activity,poor prognosis association,therapeutic target
+ENSG00000101441,CST4,protease inhibition,tumor growth,invasion,prognostic biomarker,immune modulation,ecm remodeling
+ENSG00000057704,TMCC3,cell signaling,protein-protein interactions,gene regulation,tumorigenesis,cell growth,migration
+ENSG00000179104,TMTC2,protein glycosylation,endoplasmic reticulum,cancer cell signaling,tumor growth,metastasis,proliferation regulation
+ENSG00000166450,PRTG,neuronal development,axon guidance,neurite outgrowth,cell migration,cell adhesion,synaptic connectivity
+ENSG00000113555,PCDH12,cell adhesion modulation,neuronal development,signaling pathway alteration,tumor progression,metastasis,prognostic marker
+ENSG00000198538,ZNF28,transcriptional regulation,zinc finger protein,gene expression modulation,oncogenic potential,tumor suppressor function,cellular signaling pathway.
+ENSG00000253537,PCDHGA7,cell-cell adhesion,protocadherin gamma cluster,tumor suppression,cell motility,tumor progression,metastasis
+ENSG00000168515,SCGB1D1,secretoglobin family member,lung epithelium expression,inflammation modulation,immune response regulation,lipid metabolism,tumor suppressor/ oncogene role
+ENSG00000162877,PM20D1,metabolic regulation,inflammation modulation,tumorigenesis,energy metabolism,oxidative stress,immune responses
+ENSG00000167904,TMEM68,membrane trafficking,protein transport,endoplasmic reticulum,golgi apparatus,tumor progression,metastasis
+ENSG00000103742,IGDCC4,dendritic cell-specific expression,cell-cell fusion regulator,bone resorption modulation,immune cell function,tumor microenvironment modulation,research target
+ENSG00000165023,DIRAS2,small gtpase,cell signaling,tumor suppression,apoptosis regulation,mapk pathway interaction,tumorigenesis
+ENSG00000185909,KLHDC8B,ubiquitin-proteasome system regulation,kelch domain interaction,tumorigenesis,protein degradation,cell cycle control,dna repair
+ENSG00000177047,IFNW1,immune response regulation,type i interferon,antiviral pathways,antitumor activity,interferon-stimulated genes,immunotherapy target
+ENSG00000134533,RERG,ras signaling pathway,gtpase activity,cell proliferation,tumor progression,therapeutic target,oncogenesis
+ENSG00000127418,FGFRL1,fgf signaling,cell proliferation,tumor progression,cell migration,differentiation,oncogenic potential
+ENSG00000156150,ALX3,embryonic development regulation,tumor suppressor activity,cell fate determination,transcription factor interaction,apoptosis induction,regulation of gene expression
+ENSG00000139330,KERA,extracellular matrix remodeling,tumor microenvironment,collagen organization,corneal proteoglycan,metastasis,structural integrity
+ENSG00000274349,ZNF658,transcription factor activity,gene expression regulation,cell growth modulation,apoptosis regulation,tumor development,interactions with other pathways
+ENSG00000178163,ZNF518B,transcription factor,regulation of gene expression,zinc finger protein,krüppel c2h2-type,znf family,tumorigenesis
+ENSG00000175697,GPR156,signal transduction,cell signaling pathways,growth regulation,proliferation,migration,tumorigenesis
+ENSG00000221890,NPTXR,synaptic plasticity,neuronal function,ampa receptor trafficking,synaptic localization,synaptic transmission,neurological disorders
+ENSG00000159618,ADGRG5,neuronal development,synaptic plasticity,g protein-coupled receptor,brain-specific expression,axon guidance,limited cancer association
+ENSG00000172878,METAP1D,protein maturation,initiator methionine cleavage,post-translational modifications,protein turnover,tumor progression,intracellular signaling pathways
+ENSG00000136169,SETDB2,epigenetic regulation,histone methyltransferase,heterochromatin formation,genome stability,aberrant gene expression,interactions with chromatin remodelers
+ENSG00000174326,SLC16A11,lactate transport,metabolic regulation,tumor microenvironment,warburg effect,energy metabolism,plasma membrane transport
+ENSG00000062370,ZNF112,transcription factor,gene expression regulation,protein-dna interaction,oncogenic processes,tumor progression,metastasis
+ENSG00000197363,ZNF517,transcription factor,zinc finger protein,gene expression regulation,cell proliferation,apoptosis,tumorigenesis
+ENSG00000198759,EGFL6,tumor growth promotion,metastasis facilitation,integrin receptor interaction,angiogenesis stimulation,prognostic marker,therapeutic target
+ENSG00000278216,UGT2A3,drug metabolism,glucuronidation reaction,detoxification process,chemotherapy response,endogenous compound elimination,xenobiotic modification
+ENSG00000173227,SYT12,synaptic vesicle exocytosis,calcium-dependent release,neurotransmitter regulation,central nervous system cancers,therapeutic targets,gliomas
+ENSG00000173391,OLR1,oxidized ldl receptor,lipid metabolism,inflammatory response,tumor progression,therapeutic target,angiogenesis
+ENSG00000160161,CILP2,extracellular matrix regulation,cell adhesion signaling,biological tissue maintenance,tumor microenvironment modulation,limited cancer research,further investigation required
+ENSG00000166535,A2ML1,protease inhibitor,extracellular matrix regulation,tumor invasion suppression,metastasis inhibition,proteolytic environment modulation,tumor-suppressive properties
+ENSG00000122254,HS3ST2,extracellular matrix modification,growth factor interactions,cell signaling dysregulation,tumor microenvironment modulation,cell proliferation enhancement,invasion promotion
+ENSG00000149742,SLC22A9,drug transport,pharmacokinetics,proximal tubules,organic anion transporter,oncology,pharmacogenomics
+ENSG00000164451,CALHM4,calcium homeostasis regulation,ion transport,synaptic function,neurotransmitter release,cellular proliferation,apoptosis
+ENSG00000170044,ZPLD1,cell adhesion regulation,cytoskeletal interactions,epithelial tissue integrity,tumor aggressiveness,cell migration,prognostic marker
+ENSG00000140511,HAPLN3,pericellular matrices,cell adhesion,tumor progression,metastasis,extracellular matrix interactions,tumor microenvironment
+ENSG00000168903,BTNL3,immune checkpoint regulation,t cell modulation,inflammatory pathways,tumor microenvironment dynamics,tumor progression,immune evasion mechanisms
+ENSG00000149218,ENDOD1,chromatin remodeling,dna repair,transcriptional regulation,genomic stability,tumorigenesis,genome instability
+ENSG00000100416,TRMU,mitochondrial trna modification,oxidative phosphorylation,energy production,mitochondrial diseases,dysregulated metabolism,tumorigenesis
+ENSG00000167992,VWCE,extracellular matrix organization,cell adhesion,tumor progression,metastasis,biomarker,cell migration
+ENSG00000075429,CACNG5,ampa receptor regulation,synaptic transmission,neurological disorders,calcium signaling,neuronal activity,tumorigenesis
+ENSG00000110900,TSPAN11,cell adhesion regulation,intracellular signaling modulation,cell migration modulation,tumor progression,dysregulation implication,metastasis potential
+ENSG00000120519,SLC10A7,transporter protein,cellular metabolism,ion homeostasis,drug resistance,cellular membrane,solute carrier family
+ENSG00000205359,SLCO6A1,organic anion transporter,drug resistance,tumor progression,membrane transport,limited research,potential role
+ENSG00000145863,GABRA6,gaba-a receptor,inhibitory neurotransmission,neuronal excitability,brain function,neurological disorders,synaptic transmission
+ENSG00000185664,PMEL,melanosome biogenesis,melanin pigment synthesis,tumor growth,cell invasion,extracellular matrix interactions,melanoma progression
+ENSG00000122711,SPINK4,serine protease inhibitor,skin barrier function,cell growth regulation,apoptosis resistance,tumorigenesis,protein-protein interaction
+ENSG00000164411,GJB7,intercellular communication,tumor progression,metastasis,cell proliferation,cell migration,gap junction proteins
+ENSG00000119004,CYP20A1,metabolism of xenobiotics,enzymatic activities in cancer,detoxification of carcinogens,chemotherapeutic drug metabolism,limited information,potential contribution to cancer progression
+ENSG00000180432,CYP8B1,prostacyclin synthesis,angiogenesis modulation,immune response regulation,tumor microenvironment,cell migration,invasion mechanisms
+ENSG00000163626,COX18,mitochondrial function,cytochrome c oxidase assembly,oxidative stress,energy production,metabolic reprogramming,cell survival
+ENSG00000197020,ZNF100,transcriptional regulation,dna binding,cell cycle control,proliferation regulation,differentiation modulation,tumorigenesis
+ENSG00000065308,TRAM2,protein transport,endoplasmic reticulum,er stress response,protein quality control,dysregulation,cellular homeostasis
+ENSG00000112337,SLC17A2,glutamate transport,tumor microenvironment modulation,drug resistance,organic anion transporter,cancer progression,therapeutic response
+ENSG00000157693,TMEM268,cell membrane localization,potential role in tumorigenesis,cell signaling pathways,interaction with extracellular factors,emerging research,cellular processes
+ENSG00000117151,CTBS,innate immunity,chitin breakdown,inflammatory responses,tumor microenvironment,upregulation in cancer,tumor progression
+ENSG00000139540,SLC39A5,zinc homeostasis,enzyme cofactor,cell proliferation,dna repair,tumor progression,immune response
+ENSG00000167280,ENGASE,deglycosylation,n-linked glycoproteins,protein folding,tumor progression,metastasis,therapeutic target
+ENSG00000172828,CES3,drug metabolism,lipid metabolism,xenobiotic detoxification,chemotherapeutic agents,tumor progression,apoptosis modulation
+ENSG00000095713,CRTAC1,tumor progression,metastasis,oncogenic role,cartilage acidic protein,upregulation,pan-cancer studies
+ENSG00000148482,SLC39A12,zinc transporter,cellular uptake,zinc homeostasis,signaling pathways,gene expression,tumor progression
+ENSG00000134193,REG4,cell proliferation,tumor growth,diagnostic biomarker,prognostic biomarker,oncogenic processes,signaling pathways
+ENSG00000124785,NRN1,neuronal development,synaptic connections,oncogenic potential,tumor progression,cell proliferation,therapeutic target
+ENSG00000164520,RAET1E,nkg2d receptor interaction,immune surveillance,tumor immune evasion,antitumor immunity,stress-induced ligand,tumor progression
+ENSG00000103260,METRN,tumor suppressor,cell proliferation inhibition,apoptosis promotion,immune response modulation,tumor microenvironment regulation,metastasis inhibition
+ENSG00000198797,BRINP2,angiogenesis regulation,cell proliferation,neurodevelopmental protein interaction,tumor growth inhibition,brain-specific function,unknown cancer involvement
+ENSG00000162670,BRINP3,tumor suppressor gene,downregulation,wnt/β-catenin pathway modulation,cell growth regulation,dna repair processes,genomic stability
+ENSG00000182986,ZNF320,transcriptional regulation,zinc finger protein,dna binding,tumorigenesis,cell proliferation,tumor suppressor/oncogene role
+ENSG00000232143,GNL1,translation initiation factor,ribosome assembly,protein synthesis regulation,cellular homeostasis,tumorigenesis,cancer driver gene
+ENSG00000186777,ZNF732,transcriptional regulation,zinc finger protein,cell proliferation,differentiation,apoptosis,tumor suppressor/oncogene
+ENSG00000165953,SERPINA12,inflammation regulation,insulin sensitivity,adipocyte function,tumor microenvironment modulation,immune response modulation,lipid metabolism
+ENSG00000162687,KCNT2,potassium channel,membrane potential regulation,electrical excitability,tumor progression,ion flux modulation,cell proliferation
+ENSG00000162086,ZNF75A,transcription factor regulation,zinc finger domain binding,gene expression,cell differentiation,development,tumor progression
+ENSG00000162944,RFTN2,lipid rafts maintenance,cell signaling organization,membrane trafficking modulation,adhesion regulation,oncogenic signaling pathway,cell proliferation modulation
+ENSG00000186803,IFNA10,type i interferon,antitumor effects,immune response,tumor microenvironment modulation,dysregulation,immune evasion
+ENSG00000185873,TMPRSS11B,notch signaling pathway,cell proliferation,metastasis promotion,transmembrane serine protease,tumor growth,therapeutic target
+ENSG00000183196,CHST6,extracellular matrix modification,chondroitin sulfate sulfation,proteoglycan synthesis,tumor microenvironment,cell adhesion,metastasis
+ENSG00000243232,PCDHAC2,cell-cell adhesion,calcium-dependent interactions,tumor invasion,metastasis,protocadherin family,cancer progression
+ENSG00000162496,DHRS3,steroid metabolism,retinoid metabolism,oxidation-reduction process,hormone regulation,tumorigenesis,dysregulation
+ENSG00000178502,KLHL11,ubiquitin ligase activity,tumor suppressor,proteasomal degradation,cell cycle control,apoptosis regulation,cytoskeletal organization
+ENSG00000145103,ILDR1,cell-cell adhesion,epithelial barrier function,tight junction maintenance,adherens junction integrity,cell polarity regulation,tumor metastasis
+ENSG00000253767,PCDHGA8,cell adhesion,tumor progression,cell-cell recognition,calcium-dependent interactions,neuronal development,immune response regulation
+ENSG00000180423,HARBI1,tumor microenvironment,immune response modulation,antitumor immune activity,immunotherapy effectiveness,mutational impact,therapeutic potential
+ENSG00000133069,TMCC2,cell proliferation,cell migration,tumor progression,prognostic marker,signal transduction,therapeutic target
+ENSG00000183979,NPB,neuroendocrine regulation,tumor microenvironment modulation,angiogenesis promotion,appetite control,metastatic potential,prognostic marker
+ENSG00000160233,LRRC3,cell adhesion,signal transduction,tumorigenesis,cancer cell proliferation,metastasis promotion,therapeutic target
+ENSG00000146453,PNLDC1,mrna degradation,rna processing,tumorigenesis,protein quality control,gene regulatory network,oncogenic transcripts accumulation
+ENSG00000186452,TMPRSS12,serine protease activity,extracellular matrix remodeling,tumor microenvironment,cancer progression,proteolytic cleavage,metastasis
+,IGHA2,antibody production,immune response,anti-tumor activity,genetic variations,antibody diversity,cancer immunotherapy
+ENSG00000197745,SCGB1D4,respiratory tract epithelium,immune modulation,tumor microenvironment,lung cancer,secreted protein,inflammation regulation
+ENSG00000141337,ARSG,sulfated glycosaminoglycans catabolism,extracellular matrix regulation,lysosomal enzyme function,cancer metastasis,tumor microenvironment modulation,prognostic marker
+ENSG00000182612,TSPAN10,tetraspanin protein family,cell adhesion regulation,cell migration modulation,tem formation,intracellular signaling influence,tumor microenvironment interaction
+ENSG00000170382,LRRN2,cell-cell adhesion,signal transduction,neuronal development,synaptic plasticity,tumor invasion,metastasis
+ENSG00000101203,COL20A1,extracellular matrix protein,cell adhesion,metastasis,tissue development,structural support,tumor microenvironment
+ENSG00000283934,IGSF6,cell adhesion,synaptic connectivity,neural development,tumor cell migration,invasion,cell signaling
+ENSG00000162951,LRRTM1,synaptic adhesion,neuronal protein,brain development,excitatory synapse,cognitive impairments,neurodevelopmental disorders
+ENSG00000133597,ADCK2,mitochondrial function,coenzyme q biosynthesis,oxidative phosphorylation,tumorigenesis,metabolic reprogramming,protein-protein interactions
+ENSG00000171462,DLK2,wnt signaling pathway,cell growth,apoptosis regulation,differentiation control,metastasis promotion,cell fate decisions
+ENSG00000203697,CAPN8,cysteine protease,cell proliferation,tumor progression,cell migration,apoptosis regulation,angiogenesis modulation
+ENSG00000150967,ABCB9,multidrug resistance,chemotherapeutic efflux,poor prognosis,tumor progression,abc transporter,drug resistance
+ENSG00000166118,SPATA19,mitochondrial dynamics,energy metabolism regulation,reactive oxygen species,tumor cell proliferation,mitochondrial dysfunction,spata19 mutations
+ENSG00000126010,GRPR,gastrin-releasing peptide receptor,g-protein coupled receptor,tumor growth promotion,metastasis,mapk signaling pathway activation,potential therapeutic target
+ENSG00000137507,LRRC32,tgf-β1 activation,immunosuppression in tme,late-stage metastasis,immunotherapy target,cancer progression,immune evasion
+ENSG00000169955,ZNF747,transcriptional regulation,dna binding,tumor suppressor,apoptosis,chromatin modification,metastasis
+ENSG00000151033,LYZL2,innate immune response,tumor progression,metastasis,dysregulation,cancer cell migration,aggressiveness
+ENSG00000115084,SLC35F5,udp-galactose transporter,golgi membrane translocation,abnormal glycosylation,cell-cell interactions,signal transduction,glycosylation in tumorigenesis
+ENSG00000146411,SLC2A12,glucose transport,tumor growth,prognostic marker,facilitative transporter,energy metabolism,therapeutic target
+ENSG00000135407,AVIL,actin cytoskeleton regulation,cell motility,neuronal tissue expression,gelsolin/villin family,regulation of actin filament organization,metastasis
+ENSG00000253159,PCDHGA12,cell adhesion,signaling pathways,tumor suppressor,oncogene,tumor progression,metastasis
+ENSG00000137968,SLC44A5,organic ion transport,tumor progression,metastasis,nutrient uptake,chemoresistance,therapeutic target
+ENSG00000135697,BCO1,carotenoid metabolism,retinoid synthesis,immune regulation,cell differentiation,dysregulation,tumor progression
+,C12orf49,regulation of gene expression,cell cycle control,cell proliferation,unknown function,tumorigenesis,unclear role
+ENSG00000157214,STEAP2,metalloreductase enzyme,cellular iron homeostasis,oxidative stress regulation,tumor growth promotion,metastasis modulation,therapeutic target
+,KIAA1324L,cell growth regulation,protein-protein interactions,tumor progression,cell proliferation,metastasis,therapeutic target
+ENSG00000077713,SLC25A43,mitochondrial transport,metabolic reprogramming,tumor progression,apoptosis regulation,redox balance,cellular energetics
+ENSG00000050165,DKK3,wnt signaling pathway,tumor suppressor gene,downregulation,metastasis inhibition,therapeutic strategy,cellular proliferation regulation
+ENSG00000137869,CYP19A1,estrogen biosynthesis,hormone-dependent tumors,aromatase inhibition,tumor growth regulation,estrogen receptor-positive breast cancer,therapeutic target
+ENSG00000204524,ZNF805,transcriptional regulation,gene expression control,chromatin remodeling,cell differentiation,tumorigenesis,oncogene activation
+ENSG00000197408,CYP2B6,drug metabolism,xenobiotic detoxification,chemotherapeutic agents,personalized cancer therapy,pharmacogenomics,drug-induced toxicities
+ENSG00000164484,TMEM200A,er stress response,calcium homeostasis regulation,protein quality control,tumor progression,promotes cell proliferation,metastasis resistance
+ENSG00000164855,TMEM184A,autophagy regulation,lysosomal degradation,reticulophagy receptor,cancer progression,metabolic stress,intracellular calcium modulation
+ENSG00000016402,IL20RA,il-20 receptor,inflammatory signaling,tumor microenvironment modulation,tissue repair,cancer progression,therapeutic target
+ENSG00000184254,ALDH1A3,retinoic acid metabolism,tumor progression,drug resistance,cancer stem cells,interacting pathways,poor prognosis
+ENSG00000177932,ZNF354C,transcription factor,zinc finger protein,gene expression regulation,tumorigenesis,oncogene,tumor suppressor
+ENSG00000121417,ZNF211,transcriptional repression,zinc finger protein,gene regulation,cell growth,tumor suppressor,tumorigenesis
+ENSG00000160097,FNDC5,irisin production,metabolic regulation,cell migration,prognostic marker,exercise-induced adaptations,signaling pathway interactions
+ENSG00000155970,MICU3,mitochondrial calcium uptake,regulation of atp production,cell death modulation,mitochondrial calcium uniporter complex,dysregulation in cancer,potential therapeutic target
+ENSG00000174951,FUT1,fucosylation,cell adhesion,immune evasion,tumor progression,metastasis,growth factor signaling
+ENSG00000186026,ZNF284,transcriptional regulation,zinc finger protein,chromatin remodeling,cell proliferation,tumorigenesis,gene expression modulation
+ENSG00000091490,SEL1L3,endoplasmic reticulum-associated degradation,protein quality control,misfolded protein degradation,cellular homeostasis,proteotoxic stress,genomic instability
+ENSG00000184599,TAFA3,neurogenesis,neurite outgrowth,synaptic plasticity,alzheimer's disease,schizophrenia,unknown role in cancer
+ENSG00000157315,TMED6,protein trafficking,endoplasmic reticulum,golgi apparatus,cargo protein sorting,intracellular transport,tumor microenvironment
+ENSG00000180257,ZNF816,transcription factor,dna binding,transcriptional regulation,gene expression modulation,cell proliferation,tumor development
+ENSG00000174514,MFSD4A,cell membrane transport,cellular metabolism regulation,tumorigenesis,cancer progression,protein interaction,metastasis
+ENSG00000106328,FSCN3,actin cytoskeleton organization,tumor metastasis,cell migration,cytoskeletal regulation,overexpression,cell invasion
+ENSG00000149050,ZNF214,transcription factor,zinc finger protein,gene regulation,cell growth,dysregulation,cancer development
+ENSG00000139985,ADAM21,cell surface protein,proteolytic shedding,tumor progression,metastasis,extracellular matrix interaction,dysregulation
+ENSG00000166509,CLEC3A,cell adhesion,angiogenesis,extracellular matrix,plasminogen activation,tumor progression,metastasis
+ENSG00000189050,RNFT1,ubiquitin ligase activity,protein degradation pathway,cell cycle regulation,dna repair,apoptosis,genomic stability
+ENSG00000187037,GPR141,neuronal signaling,neurotransmitter release,g protein-coupled receptor,brain-specific expression,tumorigenesis potential,neural signaling pathways
+ENSG00000105852,PON3,oxidative stress regulation,lipid metabolism,antioxidant activity,tumor development potential,cellular proliferation modulation,unknown connections with cancer
+ENSG00000165194,PCDH19,cell-cell adhesion,neuronal development,tumor progression,cell migration,metastasis,potential therapeutic target
+ENSG00000124574,ABCC10,drug efflux pump,chemotherapeutic drug resistance,atp-binding cassette transporter,cell membrane localization,multi-drug resistance protein,resistance mechanism
+ENSG00000174842,GLMN,nf-κb signaling,transcription factor regulation,cell proliferation,apoptosis inhibition,oncogenic process,genetic mutation
+ENSG00000218336,TENM3,cell adhesion regulation,metastatic potential,prognostic indicator,epithelial-mesenchymal transition,tumor progression,synaptic organization
+ENSG00000198346,ZNF813,transcriptional control,genomic stability,chromatin organization,cell growth regulation,potential biomarker,therapeutic target
+ENSG00000213096,ZNF254,transcription factor,cell growth regulation,gene expression modulation,tumor progression,chromatin interaction,metastasis
+ENSG00000165475,CRYL1,reactive aldehyde metabolism,cellular detoxification,oxidative stress,dna damage,tumorigenesis,tumor progression
+ENSG00000162078,ZG16B,pancreatic cancer progression,digestive enzyme activation,metastasis,cell proliferation,metabolic regulation,oncogenic signaling
+ENSG00000183569,SERHL2,endoplasmic reticulum localization,protein quality control,cell survival regulation,lipid metabolism regulation,signal transduction,tumor progression
+ENSG00000135953,MFSD9,membrane transporter protein,cellular homeostasis,tumor progression,metastasis regulation,critical cellular processes,potential oncogenic role
+ENSG00000175928,LRRN1,leucine-rich repeat,cell adhesion,neuronal development,axon guidance,synapse formation,neurological disorders
+ENSG00000172687,ZNF738,transcription factor,dna binding,gene regulation,cell proliferation,apoptosis,oncogene
+ENSG00000144045,DQX1,rna splicing,rna modification,nucleoplasm localization,aberrant splicing events,transcriptome landscape,therapeutic target
+ENSG00000120563,LYZL1,innate immune response,bacterial cell wall degradation,tumor microenvironment modulation,antitumor effects,biomarker potential,prognostic indicator
+ENSG00000125900,SIRPD,immune checkpoint receptor,cd47 interaction,immunosuppression,phagocytosis inhibition,immune evasion,immunotherapy target
+ENSG00000182489,XKRX,membrane protein,ion transport,cell membrane integrity,cell structure,cellular signaling pathways,tumorigenesis
+ENSG00000005189,REXO5,dna repair pathway,tumor suppressor role,genomic stability,exonuclease activity,homologous recombination,downregulation
+ENSG00000146066,HIGD2A,hypoxia-inducible gene,mitochondrial function,cellular bioenergetics,tumor microenvironment adaptation,metabolic reprogramming,therapeutic resistance
+ENSG00000174109,C16orf91,cell adhesion,tumor progression,metastasis,extracellular matrix interactions,invasion capabilities,therapeutic target
+ENSG00000273111,LYPD4,cell surface protein,tumor progression,metastasis,protein-protein interactions,therapeutic target,oncogenic effects
+ENSG00000172940,SLC22A13,organic anion transport,drug resistance mechanisms,chemotherapy response,tumor microenvironment modulation,organic anion metabolism,drug efflux regulation
+ENSG00000169758,TMEM266,cell proliferation,migration regulation,metastasis promotion,tumor progression,therapeutic target,signaling pathway modulation
+ENSG00000113108,APBB3,adaptor protein,signal transduction,cell proliferation,migration and invasion,oncogenic proteins,therapeutic target
+ENSG00000107362,ABHD17B,lipid metabolism,signaling pathways,lipid hydrolase function,tumorigenesis,abhd17b dysregulation,research needed
+ENSG00000237814,SFTA2,innate immune response,host defense,pulmonary surfactant,lung diseases,tumor progression,immune evasion
+ENSG00000157837,SPPL3,intramembrane protease,transmembrane domain cleavage,immune system regulation,notch protein processing,autoimmune diseases,inflammatory disorders
+ENSG00000275031,METRNL,metabolic homeostasis regulation,secreted protein,inflammation modulation,pi3k/akt pathway interaction,tumor progression,prognostic biomarker
+ENSG00000136237,RAPGEF5,rap1 signaling pathway,cell adhesion regulation,cell migration promotion,tumor metastasis,therapeutic target,oncogenic potential
+ENSG00000105088,OLFM2,cell adhesion,cell migration,integrin signaling pathway,tumor progression,metastasis,regulation of cell growth
+ENSG00000166575,TMEM135,endoplasmic reticulum homeostasis,protein folding,quality control mechanism,chaperone interactions,cancer cell survival,therapeutic target
+ENSG00000182534,MXRA7,extracellular matrix remodeling,cell adhesion,metastasis,poor prognosis,tumor progression,therapeutic target
+ENSG00000119686,FLVCR2,heme exporter,iron metabolism regulation,cellular homeostasis,oxidative stress modulation,tumor growth regulation,dysregulation impact
+ENSG00000188467,SLC24A5,skin pigmentation,melanoma susceptibility,ion transport,genetic variations,sun sensitivity,skin cancer risk
+ENSG00000158516,CPA2,extracellular matrix degradation,peptide hormone regulation,angiogenesis modulation,immune cell regulation,microenvironmental remodeling,research opportunities
+ENSG00000163959,SLC51A,bile acid transport,organic solute transporter,alpha subunit,heteromeric complex,metabolic disorders,tumorigenesis
+ENSG00000128040,SPINK2,serine protease inhibitor,kazal-type,protease regulation,tissue remodeling,immune response,tumor metastasis
+ENSG00000083454,P2RX5,ion channel activity,extracellular atp signaling,calcium influx,immune modulation,tumor microenvironment,potential therapeutic target
+ENSG00000205669,ACOT6,lipid metabolism regulation,fatty acid oxidation,tumor progression,dysregulation,metabolic vulnerability,therapeutic target
+ENSG00000180479,ZNF571,transcription factor,zinc finger protein,gene expression regulation,tumor progression,cell proliferation,oncogenic potential
+ENSG00000173875,ZNF791,transcriptional regulation,dna binding protein,cellular processes modulation,cancer development,gene expression alteration,oncogenic transformation
+ENSG00000159905,ZNF221,transcriptional repression,zinc finger protein,gene regulation,tumor growth,oncogenic potential,therapeutic target
+ENSG00000256294,ZNF225,transcriptional regulation,zinc finger protein,dna binding,tumorigenesis,cell proliferation,apoptosis
+ENSG00000163328,GPR155,g protein-coupled receptor,signaling pathways,tumorigenesis,cell growth,metastasis,therapeutic target
+ENSG00000173950,XXYLT1,xylose glycosylation,tumor progression,metastasis promotion,cell adhesion,glycosylation abnormalities,prognostic marker
+ENSG00000124935,SCGB1D2,tumor-associated antigen,immune regulation,promotes metastasis,biomarker for early detection,cell proliferation,apoptosis regulation
+ENSG00000235589,ZNF311,transcriptional regulation,zinc finger protein,cell growth,differentiation,apoptosis,tumorigenesis
+ENSG00000145451,GLRA3,ion channel activity,neurotransmission regulation,cell proliferation,cell migration,cell invasion,oncogenic potential
+ENSG00000141449,GREB1L,estrogen receptor signaling,transcriptional regulation,cell proliferation,tumor progression,hormonal therapy response,prognostic marker
+ENSG00000144043,TEX261,chromosome segregation,microtubule attachment,kinetochores,genomic instability,cell division,cancer progression
+ENSG00000172817,CYP7B1,cholesterol metabolism,bile acid synthesis,enzyme activity,cancer progression,therapeutic target,cellular proliferation
+ENSG00000151948,GLT1D1,lipid metabolism,phospholipid biosynthesis,enzymatic catalysis,tumorigenesis,cancer cell proliferation,cellular homeostasis
+ENSG00000104499,GML,lipid metabolism,lysophosphatidic acid (lpa) production,tumorigenesis,cell proliferation,metastasis,inflammation
+ENSG00000269743,SLC25A53,mitochondrial metabolism,metabolite transport,tumor growth support,metabolic profile alteration,mitochondrial solute carrier,metabolic reprogramming
+ENSG00000139433,GLTP,lipid metabolism,intracellular trafficking,cell proliferation,cell migration,cell invasion,cell signaling
+ENSG00000172986,GXYLT2,protein glycosylation,post-translational modification,cell signaling,tumorigenesis,gene expression regulation,interactions with transcription factors
+ENSG00000151233,GXYLT1,notch signaling pathway,o-linked fucose xylosylation,tumorigenesis,ligand-receptor interaction,glycosylation modification,cancer progression
+ENSG00000099998,GGT5,drug resistance,redox signaling,tumor microenvironment,metastasis,xenobiotic metabolism,antioxidant defense system
+ENSG00000124490,CRISP2,sperm maturation,male reproductive system,immune modulation,tumor progression,emerging role in tumorigenesis,research needed
+ENSG00000099999,RNF215,ubiquitin ligase activity,protein degradation,cell cycle regulation,dna repair,signal transduction,tumorigenesis
+ENSG00000158156,XKR8,transmembrane transport,ion transport,cell homeostasis,cell migration,cellular signaling,tumorigenesis
+ENSG00000115649,CNPPD1,cell proliferation,tumor growth,metastasis promotion,aggressive phenotypes,gene expression modulation,therapeutic target
+ENSG00000163710,PCOLCE2,extracellular matrix modulation,collagen metabolism regulation,procollagen processing enhancement,tumor microenvironment modulation,cancer progression,metastasis promotion
+ENSG00000103355,PRSS33,serine protease activity,tumor progression promotion,invasion and metastasis,poor prognosis biomarker,tumor microenvironment modulation,immune evasion
+ENSG00000131781,FMO5,metabolic detoxification,drug metabolism,xenobiotic biotransformation,liver-specific expression,enzymatic oxidation,potential impact
+ENSG00000131044,TTLL9,microtubule dynamics,post-translational modification,cell division,intracellular transport,dysregulation,cellular morphology
+ENSG00000124251,TP53TG5,tp53 pathway regulation,non-coding rna,cell cycle control,dna repair modulation,tumor suppressor,cellular stress response
+ENSG00000167562,ZNF701,transcription factor,gene expression regulation,tumorigenesis,cell proliferation,protein-dna binding,oncogenic signaling
+ENSG00000169397,RNASE3,innate immune response,extracellular rna degradation,inflammatory modulation,cell death induction,anti-tumor effects,therapeutic target
+ENSG00000080166,DCT,melanin biosynthesis pathway,enzyme catalysis,pigmentation disorders,melanoma risk factor,cellular response modulation,uv radiation sensitivity
+ENSG00000213085,CFAP45,ciliary function,flagella assembly,dysregulation in cancer,cell motility,cell signaling,tumorigenesis
+ENSG00000184995,IFNE,antitumor activity,immune response modulation,type i interferon signaling,tumor microenvironment regulation,immune checkpoint regulation,ifne dysregulation
+ENSG00000078795,PKD2L2,calcium signaling,ion transport,tumorigenesis,cell proliferation,cell survival,therapeutic target
+ENSG00000176782,DEFB104A,antimicrobial activity,innate immunity,pathogen defense,immunomodulation,inflammatory disorders,tumor progression
+ENSG00000277006,DEFB104B,antimicrobial peptide,epithelial cells,infection defense,anti-tumor activity,apoptosis induction,immune modulation
+ENSG00000101670,LIPG,lipid metabolism,endothelial lipase,high-density lipoprotein (hdl) cholesterol,tumor-promoting,tumor-suppressive,angiogenesis
+ENSG00000125458,NT5C,nucleotide metabolism,dna replication regulation,nucleotide salvage pathways,purine nucleotides catabolism,tumorigenesis,cell cycle progression
+ENSG00000143297,FCRL5,b cell signaling,itam motifs,immune regulation,b cell malignancies,therapeutic target,cytoplasmic domain
+ENSG00000007350,TKTL1,warburg effect,pentose phosphate pathway,tumor progression,metabolic rewiring,cancer therapy target,glycolysis
+ENSG00000165076,PRSS37,proteolytic activity,tumor progression,metastasis,invasion,epithelial-mesenchymal transition,tumor microenvironment interactions
+ENSG00000118276,B4GALT6,glycosylation,cell-cell recognition,tumor progression,immune evasion,biomarker,metastasis
+ENSG00000183709,IFNL2,antiviral response,interferon-stimulated genes,immunomodulation,host defense,infection susceptibility,immune system regulation
+ENSG00000104804,TULP2,primary cilium regulation,intracellular trafficking,ciliary dysfunction,abnormal signaling,tumorigenesis,protein-protein interactions
+ENSG00000134538,SLCO1B1,drug transport,pharmacokinetics,drug response,liver-specific expression,metabolic regulation,treatment outcomes
+ENSG00000117009,KMO,kynurenine metabolism,immune evasion,dysregulation,tumor microenvironment,proliferation,migration
+ENSG00000167543,TP53I13,tumor suppressor regulation,tp53 interaction,cell cycle control,apoptosis induction,cancer development,downregulation
+ENSG00000198812,LRRC10,cell adhesion,integrin interaction,cancer metastasis,tumor aggressiveness,apoptosis resistance,angiogenesis promotion
+ENSG00000142694,EVA1B,endoplasmic reticulum localization,cellular homeostasis maintenance,stress response modulation,cell proliferation regulation,cell survival pathways,tumorigenesis mechanisms
+ENSG00000186334,SLC36A3,amino acid transporter,nutrient uptake,cancer metabolism,cell proliferation,mtorc1 signaling,cancer progression
+ENSG00000109576,AADAT,metabolic regulation,cell proliferation,redox signaling,lysine catabolism,tryptophan metabolism,enzyme activity
+ENSG00000145879,SPINK7,serine protease inhibitor,skin barrier function,dysregulation in cancer,tumorigenesis,protease activity modulation,cell growth modulation
+ENSG00000138463,SLC49A4,solute carrier protein,nutrient transport,metabolite transportation,cellular metabolism,proliferation,survival
+ENSG00000166250,CLMP,cell adhesion,tight junction formation,epithelial barrier integrity,paracellular permeability regulation,cell migration,tumor metastasis
+ENSG00000144908,ALDH1L1,one-carbon metabolism,folate cycle,dna synthesis,methylation,genomic integrity,dysregulation
+ENSG00000158865,SLC5A11,glucose uptake,metabolic rewiring,tumor growth,chemoresistance,sodium-dependent transporter,energy sources
+ENSG00000172728,FUT10,glycan synthesis,fucosylated glycans,post-translational modification,cancer progression,tumor invasion,aberrant expression
+ENSG00000002745,WNT16,wnt signaling pathway,cell proliferation,tumor formation,gene expression regulation,cell fate decisions,tumorigenesis
+ENSG00000004846,ABCB5,drug efflux,resistance mechanisms,cancer stem cells,multidrug resistance,tumor invasion,metastasis
+ENSG00000167536,DHRS13,carbonyl reductase activity,metabolic regulation,xenobiotic metabolism,tumor progression,therapeutic target,response to treatment
+ENSG00000155893,PXYLP1,protein glycosylation,post-translational modification,oncogenic signaling,cell proliferation,metastasis,therapeutic target
+ENSG00000174562,KLK15,serine protease,prostate gland expression,tumor progression,metastasis,extracellular matrix degradation,angiogenesis
+ENSG00000254402,LRRC24,cell adhesion regulation,cell migration modulation,receptor interaction,tumor progression promotion,metastasis facilitation,tumor microenvironment modulation
+ENSG00000168890,TMEM150A,cell proliferation regulation,cell migration modulation,cellular communication,signal transduction,tumor progression,metastasis promotion
+ENSG00000179954,SSC5D,cell adhesion,cell signaling,tumor progression,cell proliferation,invasion,metastasis
+ENSG00000205221,VIT,cell adhesion,extracellular matrix interaction,tumor growth,metastasis,prognostic marker,immune modulation
+ENSG00000134285,FKBP11,peptidyl-prolyl cis-trans isomerase,protein folding,cell cycle regulation,signal transduction,tumor progression,metastasis
+ENSG00000157800,SLC37A3,glucose metabolism,energy production,glucose homeostasis,g6p transport,glycogen storage,tumor growth
+ENSG00000149564,ESAM,cell-cell adhesion,vascular permeability,tumor angiogenesis,metastasis,cancer cell invasion,tumor microenvironment interaction
+ENSG00000156574,NODAL,tgf-beta superfamily,embryonic development regulator,mesendoderm formation,tumor growth promotion,metastasis inducer,cancer stem cells maintenance
+ENSG00000016864,GLT8D1,glycosylation pathway,protein modification,endoplasmic reticulum function,golgi apparatus activity,tumorigenesis association,cancer progression
+ENSG00000167941,SOST,wnt/beta-catenin signaling,tumor microenvironment regulation,bone remodeling,angiogenesis modulation,epithelial-mesenchymal transition,metastasis control
+ENSG00000083817,ZNF416,transcription factor,zinc finger protein,tumorigenesis,gene expression regulation,cell proliferation,signaling pathways
+ENSG00000158525,CPA5,peptide metabolism,zinc-dependent metalloenzyme,protein breakdown,cellular processes,dysregulation impact,signaling pathways
+ENSG00000217555,CKLF,tumor progression,metastasis promotion,immune modulation,tumor microenvironment,chemokine receptor interaction,poor prognosis
+ENSG00000169239,CA5B,ph regulation,tumor microenvironment,invasive potential,metastasis,drug resistance,immune evasion
+ENSG00000198663,C6orf89,potential oncogenic function,interactions with protein pathways,gene regulation,tumorigenesis,cellular responses,molecular characterization
+ENSG00000171161,ZNF672,transcription factor,gene regulation,tumorigenesis,dna binding,tumor progression,epigenetic modulation
+ENSG00000214128,TMEM213,transmembrane protein,cell membrane location,potential signaling function,transport mechanism,cell adhesion,need for further research
+ENSG00000167311,ART5,adp-ribosyltransferase activity,dna repair regulation,cell growth modulation,tumor progression,post-translational modification signaling,metastasis promotion
+ENSG00000183876,ARSI,sulfur metabolism,enzymatic hydrolysis,dysregulation,tumorigenesis,cellular processes,potential role
+ENSG00000280568,ZNF780A,transcriptional regulation,dna binding,cell growth,apoptosis,oncogenesis,tumor progression
+ENSG00000224290,APOM,lipid metabolism,cholesterol homeostasis,high-density lipoproteins,tumor progression,metastasis,cancer therapy
+ENSG00000117010,ZNF684,transcriptional regulation,zinc finger protein,gene expression,tumor progression,chromatin modification,transcription factor
+ENSG00000094963,FMO2,drug metabolism,xenobiotic detoxification,tumorigenesis potential,cancer progression,oxidative stress regulation,emerging role
+ENSG00000105767,CADM4,cell adhesion,immunoglobulin superfamily,epithelial-mesenchymal transition,tumor invasion,prognostic marker,immune modulation
+ENSG00000186765,FSCN2,actin cytoskeleton organization,cell motility,invasion,filopodia formation,metastasis,poor prognosis
+ENSG00000118094,TREH,trehalose metabolism,glucose breakdown,cellular energetics,stress response,cell signaling,tumor metabolism
+ENSG00000078579,FGF20,fgf signaling,tumor progression,angiogenesis,therapeutic target,cell proliferation,metastasis
+ENSG00000254858,MPV17L2,mitochondrial dna integrity,membrane protein,mitochondrial biogenesis,liver disease,neurological symptoms,unclear role in cancer
+ENSG00000256087,ZNF432,zinc finger protein,dna binding,gene regulation,tumorigenesis,cellular processes,cancer research
+ENSG00000204922,UQCC3,mitochondrial respiratory chain assembly,energy production disruption,cellular metabolism alterations,tumor progression,cell survival promotion,oncogenic process influence
+ENSG00000140873,ADAMTS18,extracellular protease,matrix degradation,tumor suppression,cell migration inhibition,metastasis prevention,poor prognosis
+ENSG00000146360,GPR6,g protein-coupled receptor,signal transduction,neuronal functions,synaptic modulation,neurological disorders,neurodegenerative diseases
+ENSG00000173264,GPR137,signaling modulation,cell migration,ligand interaction,tumorigenesis,cell proliferation,metastasis
+ENSG00000197110,IFNL3,immune response modulation,jak-stat signaling activation,antiviral activity regulation,immune cell proliferation,inflammatory response modulation,cancer immunotherapy potential
+ENSG00000143552,NUP210L,nuclear pore complex,nucleocytoplasmic transport,genome instability,gene expression,cellular dysregulation,potential cancer involvement
+ENSG00000164088,PPM1M,mapk/erk pathway regulation,tumor suppressor activity,phosphatase enzyme,negative regulation of oncogenic kinases,cell proliferation control,oncogenic signaling pathways modulation
+ENSG00000120057,SFRP5,wnt signaling modulation,tumor suppressor function,promoter hypermethylation,cell proliferation regulation,invasion inhibition,chromatin remodeling
+ENSG00000118557,PMFBP1,cell proliferation regulation,cell cycle modulation,tumor growth promotion,metastasis facilitation,therapeutic target,novel cancer gene discovery
+ENSG00000213088,ACKR1,decoy receptor,chemokine binding,immune modulation,cell migration,downregulation,tumor progression
+ENSG00000100632,ERH,cell cycle regulation,dna repair,telomere maintenance,protein interactions,tumorigenesis,potential therapeutic target
+ENSG00000198573,SPANXC,cancer-testis antigen,tumor growth promotion,immune evasion,aggressive tumor behavior,poor prognosis,oncogenic pathway interaction
+ENSG00000155254,MARVELD1,tight junction protein,epithelial barrier integrity,paracellular permeability,cell-cell adhesion,tumor progression,metastasis
+ENSG00000215695,RSC1A1,small gtpase,cell proliferation,cytoskeletal dynamics,signal transduction,tumor progression,metastasis
+ENSG00000174136,RGMB,tumor progression,metastasis,tgf-β signaling,cell migration,epithelial-to-mesenchymal transition,angiogenesis
+ENSG00000131686,CA6,extracellular ph regulation,tumor progression,metastasis,immune evasion,ion transport,salivary gland-specific expression
+ENSG00000125999,BPIFB1,secreted protein,plunc family,innate immunity,antimicrobial properties,respiratory tract,tumorigenesis
+ENSG00000121270,ABCC11,multidrug resistance,chemotherapeutic efflux,drug resistance,cellular metabolism,cancer cell survival,therapeutic implications
+ENSG00000198113,TOR4A,tor signaling pathway,gtpase protein,cell growth and proliferation,metabolic regulation,tumor progression,therapeutic target
+ENSG00000088726,TMEM40,cell growth regulation,transmembrane protein,cell signaling pathway,tumor progression,therapeutic target,cellular homeostasis
+ENSG00000134851,TMEM165,golgi apparatus,calcium homeostasis,manganese homeostasis,cellular trafficking,signaling pathways,disease association
+ENSG00000108018,SORCS1,protein sorting,trafficking regulation,synaptic plasticity,neuronal survival,insulin signaling,tumor progression
+ENSG00000183128,CALHM3,calcium homeostasis,ion channel activity,neuronal function,calcium signaling,cellular processes,cancer progression
+ENSG00000174332,GLIS1,transcription factor,tumor growth,cell proliferation,survival pathways,invasion,poor prognosis
+ENSG00000137449,CPEB2,rna-binding protein,post-transcriptional regulation,mrna translation,cell cycle control,tumor metastasis,signaling pathways
+ENSG00000174885,NLRP6,inflammasome activation,epithelial homeostasis,pro-inflammatory cytokines,gastrointestinal tract,gut microbiome,inflammatory microenvironment
+ENSG00000169469,SPRR1B,epithelial differentiation,skin barrier formation,altered expression patterns,cell adhesion,cell migration,potential impact
+ENSG00000181450,ZNF678,transcription factor,tumor suppressor,gene expression regulation,cell growth inhibition,metastasis prevention,drug resistance reversal
+ENSG00000130035,GALNT8,o-linked glycosylation,protein modification,cell growth,metastasis,drug resistance,glycosyltransferase activity
+ENSG00000180592,SKIDA1,tumor progression,metastasis,cell proliferation,migration,invasion,therapeutic target
+ENSG00000203785,SPRR2E,epithelial barrier maintenance,cell proliferation,migration regulation,tumorigenesis,prognostic marker,signaling pathway modulation
+ENSG00000166143,PPP1R14D,protein phosphatase regulation,cellular signaling pathways,substrate specificity control,tumorigenesis influence,cellular growth modulation,survival pathway alteration
+ENSG00000105738,SIPA1L3,rap1 signaling pathway,cell migration regulation,metastasis suppression,tumor invasion inhibition,therapeutic target,metastasis biomarker
+ENSG00000134758,RNF138,e3 ubiquitin ligase activity,cell cycle regulation,dna damage response,tumor growth,genomic stability,metastasis
+ENSG00000175764,TTLL11,microtubule stability,glutamylation modification,cell division,intracellular trafficking,tumorigenesis,post-translational modification
+ENSG00000196169,KIF19,mitotic spindle regulation,chromosomal instability,kinesin motor protein,cell division checkpoint,cell migration,invasion regulation
+ENSG00000018869,ZNF582,transcriptional regulation,dna binding,tumor suppressor or oncogene,cell growth,differentiation,signaling pathways
+ENSG00000141946,ZIM3,zinc finger protein,transcriptional regulation,growth and development,dysregulation,cell proliferation,tumorigenesis
+ENSG00000267041,ZNF850,transcriptional regulator,cell growth and proliferation,regulation of gene expression,oncogenic potential,interactions with cellular pathways,tumor suppressor activity
+ENSG00000204519,ZNF551,transcriptional regulation,dna binding,cell proliferation,apoptosis,tumor progression,gene expression modulation
+ENSG00000281448,ZNF502,transcriptional regulator,gene expression modulation,tumorigenesis,cell proliferation,apoptosis,protein interaction network
+ENSG00000181315,ZNF322,transcriptional regulation,zinc finger protein,gene expression modulation,cellular processes,tumorigenesis,cancer progression
+ENSG00000167637,ZNF283,transcription factor,cell growth,tumorigenesis,oncogenesis,tumor progression,protein interactions
+ENSG00000136866,ZFP37,transcriptional repression,zinc finger protein,gene expression regulation,cell proliferation,tumorigenesis,transcription factor
+ENSG00000250571,GLI4,hedgehog signaling,transcription factor,cell proliferation,tumor progression,gene expression modulation,oncogenic potential
+ENSG00000146839,ZAN,fertilization,sperm-egg recognition,extracellular matrix,cell adhesion,cell signaling,metastasis
+ENSG00000221880,KRTAP1-3,hair follicle development,structural integrity,keratin-associated protein,tumor progression,metastasis,role in cancer biology
+ENSG00000102181,CD99L2,cell adhesion,immune response modulation,metastasis,protein interactions,cell migration,tumor cell behavior
+ENSG00000117480,FAAH,endocannabinoid system,fatty acid amides breakdown,anandamide regulation,cell proliferation,metastasis,therapeutic target
+ENSG00000215186,GOLGA6B,golgi apparatus maintenance,intracellular trafficking,protein transport regulation,proper protein processing,cell growth modulation,metastasis impact
+ENSG00000228049,POLR2J2,transcription initiation,rna polymerase ii,gene expression,tumor development,rna processing,genomic stability
+ENSG00000206306,HLA-DRB1,antigen presentation,immune response regulation,major histocompatibility complex,mhc class ii,cd4+ t cells,immune evasion
+ENSG00000070388,FGF22,angiogenesis promotion,cell proliferation enhancement,tumor progression,signal transduction,therapeutic target,tumor microenvironment interaction
+ENSG00000176239,OR51B6,g protein-coupled receptor,cell proliferation,metastasis,tumor microenvironment,angiogenesis,immune modulation
+ENSG00000112139,MDGA1,cell adhesion molecule,neuronal development,dysregulation in cancer,tumor cell proliferation,invasion and metastasis,prognostic marker
+ENSG00000161610,HCRT,sleep-wake regulation,appetite control,neuropeptide precursor,hypothalamic expression,narcolepsy association,metabolic function
+ENSG00000109390,NDUFC1,mitochondrial complex i,oxidative phosphorylation,atp synthesis,reactive oxygen species,metabolic reprogramming,tumor progression
+ENSG00000178235,SLITRK1,neuronal development,synaptic function,neurite outgrowth regulation,dendritic branching,synaptic adhesion molecule,neurodevelopmental disorders
+ENSG00000165379,LRFN5,synaptic adhesion,neuronal connectivity,excitatory synapses,plasticity,neural circuits,neurological disorders
+ENSG00000157766,ACAN,extracellular matrix protein,cartilage integrity,tumor invasion,metastasis,signaling pathways,tumor development
+ENSG00000112562,SMOC2,tumor progression,cell adhesion,angiogenesis,metastasis,extracellular matrix,poor prognosis
+ENSG00000136488,CSH1,growth regulation,angiogenesis promotion,tumor progression,metastasis facilitation,growth factor interaction,breast cancer implication
+ENSG00000179399,GPC5,heparan sulfate proteoglycan,co-receptor function,signaling pathways modulation,tumor growth,angiogenesis,aberrant expression
+ENSG00000197054,ZNF763,transcriptional regulation,dna binding,cellular proliferation,tumor suppressor/oncogene,signaling pathways,metastasis
+ENSG00000150275,PCDH15,cell adhesion molecule,cell-cell recognition,inner ear expression,usher syndrome,tumor metastasis,tumor microenvironment interaction
+ENSG00000110427,KIAA1549L,signal transduction regulation,central nervous system development,tumorigenesis,pan-cancer,cellular signaling cascades,gene expression patterns
+ENSG00000213420,GPC2,cell signaling,tumor growth,metastasis,signaling pathways,protein interaction,gene expression
+ENSG00000112414,ADGRG6,cell adhesion,tumor metastasis,immune response modulation,extracellular matrix interaction,signaling pathway activation,cancer progression
+ENSG00000276053,LAIR1,immune evasion,inhibitory receptor,collagen binding,tumor progression,metastasis,immunotherapy target
+ENSG00000134256,CD101,t cell regulation,immune responses,regulatory t cells,immune checkpoints,tumor microenvironment,immune evasion
+ENSG00000182035,ADIG,mitochondrial dynamics,caspase-independent apoptosis,tumorigenesis,tumor progression,energy metabolism regulation,interactions with mitochondrial proteins
+ENSG00000163273,NPPC,tumor microenvironment modulation,angiogenesis regulation,immune response modulation,tumor growth inhibition,guanylyl cyclase b receptor,cancer cell signaling pathways
+ENSG00000196209,SIRPB2,immune checkpoint,tumor microenvironment,immune evasion,phagocytosis inhibition,tumor growth,immunotherapy target
+ENSG00000154269,ENPP3,lysophosphatidic acid signaling,tumor microenvironment modulation,cancer cell proliferation,invasion promotion,metastasis facilitation,drug resistance induction
+ENSG00000145850,TIMD4,immune checkpoint molecule,t cell modulation,tumor immune evasion,antitumor immune responses,immune escape,pd-1/pd-l1 interaction
+ENSG00000158292,GPR153,g protein-coupled receptor,cell signaling,ligand interaction,cellular response modulation,neurodegenerative diseases,metabolic disorders
+ENSG00000140287,HDC,histamine synthesis,tumor microenvironment modulation,hdc upregulation,angiogenesis promotion,immunosuppression,histamine signaling
+ENSG00000183117,CSMD1,tumor suppressor,cell adhesion,migration regulation,immune response modulation,genomic stability,therapeutic target
+ENSG00000180828,BHLHE22,tumor suppressor,cell differentiation,dna repair,negative regulator,oncogenic pathways,metastasis
+ENSG00000169618,PROKR1,g protein-coupled receptor,mapk/erk pathway,angiogenesis,tumor growth,metastasis,pro-tumorigenic signaling

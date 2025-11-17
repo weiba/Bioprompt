@@ -1,0 +1,17 @@
+You are a prompt engineering expert,
+Task: Design a standard and stable prompt that guides a large model to write six words describing the biological characteristics of a given gene in specific cancers.
+
+Now there are two examples of prompts, one is good and stable, and the other is suboptimal and does not perform as well:
+1. The stable prompt is: 
+{Good_PROMPT},
+with the number of repeated words on 20 genes being: {Good_NUM}
+
+
+2. The less stable prompt is: 
+{Bad_PROMPT},
+with the number of repeated words on 20 genes being: {Bad_NUM}
+
+requirement:
+Please compare the stable prompt and the suboptimal prompt, and based on the stable prompt, analyze why it is stable and where it is stable, and output your analysis. Your prompt needs to increase the number of repetitions and stability. 
+Be careful not to change the format of prompt's answers.Please output the fine-tuned prompt in your reply, between <PROMPT1> and <PROMPT2> is your answer,formatted as:
+<PROMPT> your prompt<PROMPT>

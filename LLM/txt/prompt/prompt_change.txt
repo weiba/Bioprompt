@@ -1,0 +1,20 @@
+现在有一个任务是生成六个生物学词汇
+我的prompt为：{PROMPT}
+现在大模型的四次重复输出为：{OUTPUT}
+你需要对我的prompt进行微调，请在回答中输出微调后的prompt，格式为：
+<begin> your prompt.<end>
+
+
+
+
+
+现在有一个任务是生成六个生物学词汇，
+之前未修改时的prompt为：{Old_PROMPT}
+旧的20个基因上重复的词汇数量为：{Old_NUM}
+
+经过大模型微调后的新的prompt为：{New_PROMPT}
+新的prompt20个基因上重复的词汇数量为：{New_NUM}
+
+请比较旧的prompt和新的prompt，
+请以重复数量多的prompt为基础上修改。请在回答中输出微调后的prompt，格式为：
+<begin> your prompt.<end>

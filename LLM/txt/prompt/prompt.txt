@@ -1,0 +1,24 @@
+Task: Write six descriptive words about the biology of a given gene in a specific cancer.
+
+Below is an example of output:
+Cancer name: pan-cancer
+Gene name: ENSG00000121879,PIK3CA
+<description>
+PIK3CA is a gene that encodes the catalytic subunit p110α of the enzyme phosphatidylinositol 3-kinase (PI3K), which is crucial in the PI3K/AKT signaling pathway, regulating cell growth, proliferation, survival, and metabolism. Located on chromosome 3q26.32, PIK3CA mutations are frequently observed in various cancers, such as breast, colorectal, and endometrial cancers, where they cause constitutive activation of the PI3K/AKT pathway, driving tumor progression. The most common mutations occur in exons 9 and 20, affecting the helical and kinase domains. Besides cancer, these mutations are also involved in overgrowth syndromes like PIK3CA-Related Overgrowth Spectrum (PROS). Due to its critical role in oncogenesis, PIK3CA is a significant therapeutic target, with PI3K inhibitors like alpelisib used in treating cancers harboring PIK3CA mutations. The gene is also included in genomic profiling to guide personalized cancer therapies.
+<description>
+Output:
+<begin>
+PI3K/AKT signaling,phosphoinositide phosphorylation,oncogenesis,cell proliferation,metabolic regulation,protein kinase activation
+<end>
+
+Requirements:
+1. The description of the gene should focus on the known gene information features, including but not limited to known literature and reports. For some unknown information, you should try to complete them with your knowledge, and select biological features related to the gene, such as function, location, interaction, regulatory mechanism, etc. Consider the mechanism of action of the gene in cancer.
+2. You need to think about how to describe this gene step by step. Output the description paragraph first, and then output the summary
+3. Your description needs to include the biological function of the gene and information related to the given disease, but the disease name is not allowed in the output. Note: not all genes are related to this disease. Please carefully confirm the source and give me the relevant description. If this gene has no information related to this disease, please only introduce the role of this gene to me.
+4. Output the description <description>...<description> first, how to summarize the characteristic vocabulary from the description
+5. The characteristic vocabulary format is <begin>,,,<end>. For example: <begin>PI3K/AKT signaling, phosphoinositide phosphorylation, oncogenesis, cell proliferation, metabolic regulation, protein kinase activation<end>
+6. It is best if each word can reflect the significant difference with other genes
+
+Task:
+Cancer name: Cancer_name
+Gene name:Gene_name
